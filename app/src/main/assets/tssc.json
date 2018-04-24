@@ -1,0 +1,3124 @@
+﻿{
+  "mulu": [
+    {
+      "kkk": [
+        {
+          "id": "1",
+          "name": "七步诗",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240001/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240001/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240001fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240001sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240001/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240001.swa"
+        },
+        {
+          "id": "2",
+          "name": "登幽州台歌",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240002/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240002/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240002fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240002sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240002/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240002.swa"
+        },
+        {
+          "id": "3",
+          "name": "咏鹅",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240003/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240003/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240003fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240003sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240003/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240003.swa"
+        },
+        {
+          "id": "4",
+          "name": "春晓",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240004/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240004/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240004fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240004sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240004/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240004.swa"
+        },
+        {
+          "id": "5",
+          "name": "登鹳雀楼",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240005/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240005/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240005fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240005sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240005/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240005.swa"
+        },
+        {
+          "id": "6",
+          "name": "古朗月行（节选）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240006/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240006/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240006fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240006sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240006/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240006.swa"
+        },
+        {
+          "id": "7",
+          "name": "静夜思",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240007/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240007/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240007fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240007sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240007/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240007.swa"
+        },
+        {
+          "id": "8",
+          "name": "望庐山瀑布",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240008/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240008/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240008fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240008sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240008/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240008.swa"
+        },
+        {
+          "id": "9",
+          "name": "赠汪伦",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240009/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240009/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240009fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240009sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240009/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240009.swa"
+        },
+        {
+          "id": "10",
+          "name": "早发白帝城",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240010/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240010/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240010fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240010sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240010/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240010.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "11",
+          "name": "秋浦歌",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240011/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240011/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240011fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240011sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240011/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240011.swa"
+        },
+        {
+          "id": "12",
+          "name": "新嫁娘词",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240012/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240012/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240012fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240012sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240012/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240012.swa"
+        },
+        {
+          "id": "13",
+          "name": "山中送别",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240013/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240013/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240013fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240013sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240013/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240013.swa"
+        },
+        {
+          "id": "14",
+          "name": "相思",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240014/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240014/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240014fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240014sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240014/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240014.swa"
+        },
+        {
+          "id": "15",
+          "name": "杂诗（君自故乡来）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240015/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240015/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240015fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240015sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240015/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240015.swa"
+        },
+        {
+          "id": "16",
+          "name": "八阵图",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240016/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240016/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240016fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240016sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240016/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240016.swa"
+        },
+        {
+          "id": "17",
+          "name": "赠花卿",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240017/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240017/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240017fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240017sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240017/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240017.swa"
+        },
+        {
+          "id": "18",
+          "name": "江南逢李龟年",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240018/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240018/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240018fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240018sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240018/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240018.swa"
+        },
+        {
+          "id": "19",
+          "name": "绝句（迟日江山丽）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240019/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240019/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240019fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240019sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240019/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240019.swa"
+        },
+        {
+          "id": "20",
+          "name": "绝句（两个黄鹂鸣翠柳）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240020/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240020/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240020fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240020sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240020/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240020.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "21",
+          "name": "江畔独步寻花",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240021/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240021/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240021fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240021sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240021/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240021.swa"
+        },
+        {
+          "id": "22",
+          "name": "题都城南庄",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240022/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240022/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240022fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240022sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240022/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240022.swa"
+        },
+        {
+          "id": "23",
+          "name": "悯农（锄禾日当午）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240023/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240023/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240023fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240023sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240023/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240023.swa"
+        },
+        {
+          "id": "24",
+          "name": "悯农（春种一粒粟）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240024/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240024/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240024fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240024sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240024/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240024.swa"
+        },
+        {
+          "id": "25",
+          "name": "枫桥夜泊",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240025/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240025/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240025fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240025sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240025/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240025.swa"
+        },
+        {
+          "id": "26",
+          "name": "回乡偶书",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240026/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240026/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240026fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240026sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240026/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240026.swa"
+        },
+        {
+          "id": "27",
+          "name": "咏柳",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240027/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240027/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240027fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240027sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240027/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240027.swa"
+        },
+        {
+          "id": "28",
+          "name": "渡汉江",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240028/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240028/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240028fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240028sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240028/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240028.swa"
+        },
+        {
+          "id": "29",
+          "name": "金缕衣",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240029/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240029/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240029fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240029sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240029/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240029.swa"
+        },
+        {
+          "id": "30",
+          "name": "宿建德江",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240030/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240030/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240030fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240030sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240030/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240030.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "31",
+          "name": "凉州词",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240031/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240031/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240031fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240031sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240031/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240031.swa"
+        },
+        {
+          "id": "32",
+          "name": "草",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240032/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240032/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240032fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240032sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240032/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240032.swa"
+        },
+        {
+          "id": "33",
+          "name": "问刘十九",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240033/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240033/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240033fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240033sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240033/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240033.swa"
+        },
+        {
+          "id": "34",
+          "name": "大林寺桃花",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240034/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240034/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240034fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240034sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240034/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240034.swa"
+        },
+        {
+          "id": "35",
+          "name": "暮江吟",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240035/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240035/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240035fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240035sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240035/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240035.swa"
+        },
+        {
+          "id": "36",
+          "name": "逢雪宿芙蓉山主人",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240036/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240036/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240036fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240036sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240036/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240036.swa"
+        },
+        {
+          "id": "37",
+          "name": "江雪",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240037/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240037/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240037fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240037sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240037/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240037.swa"
+        },
+        {
+          "id": "38",
+          "name": "送崔九",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240038/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240038/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240038fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240038sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240038/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240038.swa"
+        },
+        {
+          "id": "39",
+          "name": "鸟鸣涧",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240039/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240039/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240039fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240039sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240039/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240039.swa"
+        },
+        {
+          "id": "40",
+          "name": "竹里馆",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240040/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240040/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240040fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240040sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240040/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240040.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "41",
+          "name": "鹿柴",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240041/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240041/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240041fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240041sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240041/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240041.swa"
+        },
+        {
+          "id": "42",
+          "name": "送元二使安西",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240042/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240042/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240042fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240042sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240042/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240042.swa"
+        },
+        {
+          "id": "43",
+          "name": "九月九日忆山东兄弟",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240043/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240043/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240043fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240043sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240043/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240043.swa"
+        },
+        {
+          "id": "44",
+          "name": "凉州词（葡萄美酒夜光杯）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240044/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240044/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240044fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240044sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240044/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240044.swa"
+        },
+        {
+          "id": "45",
+          "name": "塞下曲（林暗草惊风）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240045/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240045/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240045fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240045sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240045/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240045.swa"
+        },
+        {
+          "id": "46",
+          "name": "塞下曲（月黑雁飞高）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240046/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240046/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240046fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240046sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240046/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240046.swa"
+        },
+        {
+          "id": "47",
+          "name": "别董大",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240047/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240047/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240047fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240047sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240047/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240047.swa"
+        },
+        {
+          "id": "48",
+          "name": "夜上受降城闻笛",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240048/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240048/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240048fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240048sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240048/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240048.swa"
+        },
+        {
+          "id": "49",
+          "name": "逢入京使",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240049/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240049/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240049fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240049sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240049/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240049.swa"
+        },
+        {
+          "id": "50",
+          "name": "桃花溪",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240050/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240050/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240050fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240050sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240050/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240050.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "51",
+          "name": "早春呈水部张十八员外",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240051/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240051/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240051fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240051sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240051/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240051.swa"
+        },
+        {
+          "id": "52",
+          "name": "从军行",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240052/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240052/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240052fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240052sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240052/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240052.swa"
+        },
+        {
+          "id": "53",
+          "name": "芙蓉楼送辛渐",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240053/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240053/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240053fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240053sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240053/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240053.swa"
+        },
+        {
+          "id": "54",
+          "name": "闺怨",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240054/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240054/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240054fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240054sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240054/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240054.swa"
+        },
+        {
+          "id": "55",
+          "name": "出塞",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240055/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240055/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240055fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240055sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240055/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240055.swa"
+        },
+        {
+          "id": "56",
+          "name": "寒食",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240056/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240056/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240056fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240056sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240056/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240056.swa"
+        },
+        {
+          "id": "57",
+          "name": "马嵬坡",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240057/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240057/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240057fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240057sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240057/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240057.swa"
+        },
+        {
+          "id": "58",
+          "name": "玉阶怨",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240058/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240058/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240058fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240058sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240058/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240058.swa"
+        },
+        {
+          "id": "59",
+          "name": "怨情",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240059/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240059/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240059fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240059sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240059/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240059.swa"
+        },
+        {
+          "id": "60",
+          "name": "黄鹤楼送孟浩然之广陵",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240060/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240060/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240060fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240060sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240060/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240060.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "61",
+          "name": "闻王昌龄左迁龙标遥有此寄",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240061/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240061/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240061fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240061sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240061/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240061.swa"
+        },
+        {
+          "id": "62",
+          "name": "陪侍郎叔游洞庭醉后",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240062/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240062/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240062fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240062sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240062/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240062.swa"
+        },
+        {
+          "id": "63",
+          "name": "望天门山",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240063/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240063/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240063fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240063sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240063/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240063.swa"
+        },
+        {
+          "id": "64",
+          "name": "独坐敬亭山",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240064/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240064/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240064fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240064sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240064/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240064.swa"
+        },
+        {
+          "id": "65",
+          "name": "清平调",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240065/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240065/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240065fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240065sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240065/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240065.swa"
+        },
+        {
+          "id": "66",
+          "name": "宫词二首",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240066/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240066/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240066fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240066sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240066/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240066.swa"
+        },
+        {
+          "id": "67",
+          "name": "题金陵渡",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240067/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240067/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240067fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240067sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240067/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240067.swa"
+        },
+        {
+          "id": "68",
+          "name": "送灵澈",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240068/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240068/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240068fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240068sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240068/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240068.swa"
+        },
+        {
+          "id": "69",
+          "name": "送上人",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240069/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240069/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240069fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240069sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240069/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240069.swa"
+        },
+        {
+          "id": "70",
+          "name": "渔歌子",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240070/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240070/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240070fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240070sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240070/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240070.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "71",
+          "name": "忆江南",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240071/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240071/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240071fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240071sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240071/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240071.swa"
+        },
+        {
+          "id": "72",
+          "name": "后宫词",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240072/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240072/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240072fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240072sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240072/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240072.swa"
+        },
+        {
+          "id": "73",
+          "name": "金谷园",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240073/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240073/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240073fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240073sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240073/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240073.swa"
+        },
+        {
+          "id": "74",
+          "name": "秋夕",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240074/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240074/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240074fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240074sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240074/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240074.swa"
+        },
+        {
+          "id": "75",
+          "name": "过华清宫",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240075/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240075/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240075fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240075sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240075/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240075.swa"
+        },
+        {
+          "id": "76",
+          "name": "赤壁",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240076/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240076/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240076fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240076sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240076/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240076.swa"
+        },
+        {
+          "id": "77",
+          "name": "赠别（娉娉袅袅十三余）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240077/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240077/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240077fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240077sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240077/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240077.swa"
+        },
+        {
+          "id": "78",
+          "name": "赠别（多情却似总无情）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240078/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240078/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240078fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240078sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240078/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240078.swa"
+        },
+        {
+          "id": "79",
+          "name": "泊秦淮",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240079/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240079/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240079fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240079sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240079/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240079.swa"
+        },
+        {
+          "id": "80",
+          "name": "山行",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240080/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240080/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240080fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240080sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240080/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240080.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "81",
+          "name": "清明",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240081/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240081/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240081fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240081sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240081/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240081.swa"
+        },
+        {
+          "id": "82",
+          "name": "江南春",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240082/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240082/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240082fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240082sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240082/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240082.swa"
+        },
+        {
+          "id": "83",
+          "name": "寄扬州韩绰判官",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240083/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240083/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240083fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240083sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240083/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240083.swa"
+        },
+        {
+          "id": "84",
+          "name": "行宫",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240084/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240084/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240084fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240084sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240084/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240084.swa"
+        },
+        {
+          "id": "85",
+          "name": "离思",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240085/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240085/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240085fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240085sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240085/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240085.swa"
+        },
+        {
+          "id": "86",
+          "name": "台城",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240086/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240086/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240086fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240086sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240086/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240086.swa"
+        },
+        {
+          "id": "87",
+          "name": "滁州西涧",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240087/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240087/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240087fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240087sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240087/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240087.swa"
+        },
+        {
+          "id": "88",
+          "name": "夜雨寄北",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240088/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240088/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240088fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240088sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240088/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240088.swa"
+        },
+        {
+          "id": "89",
+          "name": "登乐游原",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240089/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240089/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240089fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240089sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240089/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240089.swa"
+        },
+        {
+          "id": "90",
+          "name": "竹枝词",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240090/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240090/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240090fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240090sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240090/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240090.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "91",
+          "name": "乌衣巷",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240091/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240091/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240091fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240091sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240091/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240091.swa"
+        },
+        {
+          "id": "92",
+          "name": "秋词",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240092/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240092/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240092fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240092sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240092/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240092.swa"
+        },
+        {
+          "id": "93",
+          "name": "春词",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240093/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240093/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240093fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240093sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240093/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240093.swa"
+        },
+        {
+          "id": "94",
+          "name": "望洞庭",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240094/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240094/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240094fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240094sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240094/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240094.swa"
+        },
+        {
+          "id": "95",
+          "name": "浪淘沙",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240095/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240095/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240095fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240095sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240095/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240095.swa"
+        },
+        {
+          "id": "96",
+          "name": "石头城",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240096/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240096/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240096fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240096sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240096/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240096.swa"
+        },
+        {
+          "id": "97",
+          "name": "题诗后",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240097/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240097/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240097fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240097sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240097/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240097.swa"
+        },
+        {
+          "id": "98",
+          "name": "寻隐者不遇",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240098/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240098/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240098fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240098sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240098/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240098.swa"
+        },
+        {
+          "id": "99",
+          "name": "南园",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240099/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240099/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240099fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240099sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240099/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240099.swa"
+        },
+        {
+          "id": "100",
+          "name": "六月二十七日望湖醉书",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240100/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240100/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240100fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240100sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240100/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240100.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "101",
+          "name": "饮湖上初晴后雨",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240101/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240101/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240101fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240101sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240101/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240101.swa"
+        },
+        {
+          "id": "102",
+          "name": "惠崇《春江晚景》",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240102/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240102/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240102fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240102sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240102/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240102.swa"
+        },
+        {
+          "id": "103",
+          "name": "题西林壁",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240103/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240103/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240103fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240103sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240103/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240103.swa"
+        },
+        {
+          "id": "104",
+          "name": "琴诗",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240104/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240104/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240104fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240104sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240104/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240104.swa"
+        },
+        {
+          "id": "105",
+          "name": "泊船瓜洲",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240105/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240105/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240105fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240105sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240105/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240105.swa"
+        },
+        {
+          "id": "106",
+          "name": "梅花",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240106/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240106/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240106fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240106sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240106/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240106.swa"
+        },
+        {
+          "id": "107",
+          "name": "登飞来峰",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240107/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240107/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240107fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240107sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240107/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240107.swa"
+        },
+        {
+          "id": "108",
+          "name": "元日",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240108/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240108/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240108fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240108sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240108/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240108.swa"
+        },
+        {
+          "id": "109",
+          "name": "雪梅",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240109/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240109/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240109fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240109sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240109/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240109.swa"
+        },
+        {
+          "id": "110",
+          "name": "示儿",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240110/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240110/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240110fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240110sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240110/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240110.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "111",
+          "name": "十一月四日风雨大作",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240111/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240111/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240111fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240111sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240111/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240111.swa"
+        },
+        {
+          "id": "112",
+          "name": "秋夜将晚出篱门迎凉有感",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240112/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240112/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240112fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240112sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240112/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240112.swa"
+        },
+        {
+          "id": "113",
+          "name": "题临安邸",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240113/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240113/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240113fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240113sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240113/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240113.swa"
+        },
+        {
+          "id": "114",
+          "name": "江上渔者",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240114/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240114/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240114fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240114sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240114/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240114.swa"
+        },
+        {
+          "id": "115",
+          "name": "小池",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240115/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240115/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240115fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240115sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240115/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240115.swa"
+        },
+        {
+          "id": "116",
+          "name": "夏日绝句",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240116/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240116/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240116fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240116sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240116/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240116.swa"
+        },
+        {
+          "id": "117",
+          "name": "晓出净慈寺送林子方",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240117/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240117/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240117fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240117sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240117/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240117.swa"
+        },
+        {
+          "id": "118",
+          "name": "过松源晨炊漆公店",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240118/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240118/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240118fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240118sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240118/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240118.swa"
+        },
+        {
+          "id": "119",
+          "name": "约客",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240119/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240119/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240119fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240119sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240119/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240119.swa"
+        },
+        {
+          "id": "120",
+          "name": "游园不值",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240120/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240120/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240120fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240120sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240120/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240120.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "121",
+          "name": "绝句",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240121/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240121/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240121fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240121sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240121/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240121.swa"
+        },
+        {
+          "id": "122",
+          "name": "春日",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240122/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240122/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240122fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240122sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240122/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240122.swa"
+        },
+        {
+          "id": "123",
+          "name": "观书有感",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240123/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240123/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240123fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240123sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240123/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240123.swa"
+        },
+        {
+          "id": "124",
+          "name": "墨梅",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240124/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240124/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240124fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240124sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240124/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240124.swa"
+        },
+        {
+          "id": "125",
+          "name": "天净沙·秋思",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240125/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240125/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240125fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240125sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240125/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240125.swa"
+        },
+        {
+          "id": "126",
+          "name": "石灰吟",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240126/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240126/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240126fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240126sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240126/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240126.swa"
+        },
+        {
+          "id": "127",
+          "name": "竹石",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240127/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240127/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240127fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240127sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240127/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240127.swa"
+        },
+        {
+          "id": "128",
+          "name": "论诗",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240128/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240128/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240128fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240128sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240128/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240128.swa"
+        },
+        {
+          "id": "129",
+          "name": "己亥杂诗",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240129/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240129/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240129fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240129sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240129/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240129.swa"
+        },
+        {
+          "id": "130",
+          "name": "梦江南",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240130/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240130/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240130fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240130sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240130/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240130.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "131",
+          "name": "游子吟",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240131/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240131/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240131fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240131sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240131/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240131.swa"
+        },
+        {
+          "id": "132",
+          "name": "春思",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240132/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240132/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240132fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240132sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240132/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240132.swa"
+        },
+        {
+          "id": "133",
+          "name": "金陵酒肆留别",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240133/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240133/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240133fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240133sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240133/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240133.swa"
+        },
+        {
+          "id": "134",
+          "name": "浣溪沙（一曲新词酒一杯）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240134/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240134/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240134fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240134sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240134/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240134.swa"
+        },
+        {
+          "id": "135",
+          "name": "浣溪沙（一向年光有限身）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240135/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240135/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240135fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240135sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240135/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240135.swa"
+        },
+        {
+          "id": "136",
+          "name": "浣溪沙（簌簌衣巾落栆花）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240136/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240136/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240136fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240136sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240136/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240136.swa"
+        },
+        {
+          "id": "137",
+          "name": "浣溪沙（山下兰芽短浸溪）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240137/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240137/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240137fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240137sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240137/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240137.swa"
+        },
+        {
+          "id": "138",
+          "name": "卜算子（我住长江头）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240138/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240138/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240138fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240138sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240138/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240138.swa"
+        },
+        {
+          "id": "139",
+          "name": "清平乐·村居",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240139/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240139/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240139fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240139sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240139/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240139.swa"
+        },
+        {
+          "id": "140",
+          "name": "前出塞",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240140/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240140/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240140fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240140sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240140/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240140.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "141",
+          "name": "归园田居（少无适俗韵）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240141/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240141/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240141fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240141sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240141/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240141.swa"
+        },
+        {
+          "id": "142",
+          "name": "归园田居（种豆南山下）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240142/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240142/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240142fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240142sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240142/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240142.swa"
+        },
+        {
+          "id": "143",
+          "name": "饮酒",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240143/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240143/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240143fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240143sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240143/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240143.swa"
+        },
+        {
+          "id": "144",
+          "name": "敕勒歌",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240144/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240144/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240144fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240144sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240144/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240144.swa"
+        },
+        {
+          "id": "145",
+          "name": "送杜少府之任蜀州",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240145/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240145/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240145fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240145sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240145/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240145.swa"
+        },
+        {
+          "id": "146",
+          "name": "次北固山下",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240146/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240146/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240146fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240146sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240146/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240146.swa"
+        },
+        {
+          "id": "147",
+          "name": "题破山寺后禅院",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240147/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240147/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240147fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240147sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240147/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240147.swa"
+        },
+        {
+          "id": "148",
+          "name": "从军行（烽火照西京）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240148/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240148/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240148fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240148sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240148/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240148.swa"
+        },
+        {
+          "id": "149",
+          "name": "登金陵凤凰台",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240149/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240149/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240149fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240149sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240149/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240149.swa"
+        },
+        {
+          "id": "150",
+          "name": "渡荆门送别",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240150/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240150/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240150fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240150sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240150/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240150.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "151",
+          "name": "送友人",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240151/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240151/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240151fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240151sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240151/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240151.swa"
+        },
+        {
+          "id": "152",
+          "name": "野望",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240152/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240152/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240152fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240152sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240152/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240152.swa"
+        },
+        {
+          "id": "153",
+          "name": "终南别业",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240153/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240153/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240153fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240153sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240153/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240153.swa"
+        },
+        {
+          "id": "154",
+          "name": "山居秋暝",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240154/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240154/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240154fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240154sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240154/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240154.swa"
+        },
+        {
+          "id": "155",
+          "name": "使至塞上",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240155/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240155/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240155fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240155sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240155/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240155.swa"
+        },
+        {
+          "id": "156",
+          "name": "夜归鹿门山歌",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240156/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240156/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240156fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240156sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240156/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240156.swa"
+        },
+        {
+          "id": "157",
+          "name": "过故人庄",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240157/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240157/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240157fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240157sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240157/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240157.swa"
+        },
+        {
+          "id": "158",
+          "name": "早寒江上有怀",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240158/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240158/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240158fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240158sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240158/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240158.swa"
+        },
+        {
+          "id": "159",
+          "name": "望洞庭湖赠张丞相",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240159/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240159/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240159fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240159sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240159/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240159.swa"
+        },
+        {
+          "id": "160",
+          "name": "饯别王十一南游",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240160/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240160/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240160fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240160sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240160/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240160.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "161",
+          "name": "寻南溪常山道人隐居",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240161/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240161/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240161fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240161sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240161/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240161.swa"
+        },
+        {
+          "id": "162",
+          "name": "古从军行",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240162/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240162/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240162fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240162sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240162/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240162.swa"
+        },
+        {
+          "id": "163",
+          "name": "望月怀远",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240163/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240163/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240163fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240163sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240163/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240163.swa"
+        },
+        {
+          "id": "164",
+          "name": "黄鹤楼",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240164/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240164/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240164fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240164sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240164/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240164.swa"
+        },
+        {
+          "id": "165",
+          "name": "左迁至蓝关示侄孙湘",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240165/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240165/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240165fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240165sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240165/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240165.swa"
+        },
+        {
+          "id": "166",
+          "name": "月夜",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240166/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240166/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240166fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240166sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240166/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240166.swa"
+        },
+        {
+          "id": "167",
+          "name": "月夜忆舍弟",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240167/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240167/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240167fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240167sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240167/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240167.swa"
+        },
+        {
+          "id": "168",
+          "name": "旅夜书怀",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240168/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240168/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240168fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240168sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240168/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240168.swa"
+        },
+        {
+          "id": "169",
+          "name": "登楼",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240169/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240169/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240169fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240169sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240169/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240169.swa"
+        },
+        {
+          "id": "170",
+          "name": "咏怀古迹",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240170/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240170/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240170fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240170sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240170/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240170.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "171",
+          "name": "蜀相",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240171/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240171/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240171fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240171sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240171/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240171.swa"
+        },
+        {
+          "id": "172",
+          "name": "客至",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240172/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240172/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240172fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240172sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240172/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240172.swa"
+        },
+        {
+          "id": "173",
+          "name": "登高",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240173/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240173/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240173fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240173sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240173/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240173.swa"
+        },
+        {
+          "id": "174",
+          "name": "登岳阳楼",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240174/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240174/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240174fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240174sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240174/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240174.swa"
+        },
+        {
+          "id": "175",
+          "name": "闻官军收河南河北",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240175/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240175/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240175fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240175sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240175/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240175.swa"
+        },
+        {
+          "id": "176",
+          "name": "春夜喜雨",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240176/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240176/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240176fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240176sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240176/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240176.swa"
+        },
+        {
+          "id": "177",
+          "name": "望岳",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240177/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240177/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240177fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240177sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240177/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240177.swa"
+        },
+        {
+          "id": "178",
+          "name": "春望",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240178/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240178/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240178fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240178sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240178/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240178.swa"
+        },
+        {
+          "id": "179",
+          "name": "钱塘湖春行",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240179/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240179/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240179fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240179sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240179/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240179.swa"
+        },
+        {
+          "id": "180",
+          "name": "锦瑟",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240180/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240180/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240180fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240180sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240180/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240180.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "181",
+          "name": "无题（相见时难别亦难）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240181/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240181/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240181fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240181sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240181/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240181.swa"
+        },
+        {
+          "id": "182",
+          "name": "无题（昨夜星辰昨夜风）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240182/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240182/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240182fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240182sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240182/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240182.swa"
+        },
+        {
+          "id": "183",
+          "name": "酬乐天扬州初逢席上见赠",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240183/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240183/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240183fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240183sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240183/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240183.swa"
+        },
+        {
+          "id": "184",
+          "name": "西塞山怀古",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240184/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240184/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240184fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240184sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240184/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240184.swa"
+        },
+        {
+          "id": "185",
+          "name": "苏武庙",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240185/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240185/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240185fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240185sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240185/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240185.swa"
+        },
+        {
+          "id": "186",
+          "name": "商山早行",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240186/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240186/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240186fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240186sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240186/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240186.swa"
+        },
+        {
+          "id": "187",
+          "name": "菩萨蛮（小山重叠金明灭）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240187/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240187/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240187fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240187sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240187/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240187.swa"
+        },
+        {
+          "id": "188",
+          "name": "菩萨蛮·书西江造口壁",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240188/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240188/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240188fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240188sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240188/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240188.swa"
+        },
+        {
+          "id": "189",
+          "name": "章台夜思",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240189/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240189/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240189fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240189sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240189/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240189.swa"
+        },
+        {
+          "id": "190",
+          "name": "雁门太守行",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240190/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240190/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240190fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240190sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240190/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240190.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "191",
+          "name": "山园小梅",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240191/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240191/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240191fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240191sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240191/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240191.swa"
+        },
+        {
+          "id": "192",
+          "name": "四时田园杂兴",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240192/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240192/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240192fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240192sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240192/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240192.swa"
+        },
+        {
+          "id": "193",
+          "name": "游山西村",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240193/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240193/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240193fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240193sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240193/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240193.swa"
+        },
+        {
+          "id": "194",
+          "name": "书愤",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240194/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240194/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240194fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240194sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240194/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240194.swa"
+        },
+        {
+          "id": "195",
+          "name": "过零丁洋",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240195/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240195/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240195fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240195sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240195/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240195.swa"
+        },
+        {
+          "id": "196",
+          "name": "朝天子·咏喇叭",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240196/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240196/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240196fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240196sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240196/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240196.swa"
+        },
+        {
+          "id": "197",
+          "name": "山坡羊·潼关怀古",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240197/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240197/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240197fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240197sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240197/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240197.swa"
+        },
+        {
+          "id": "198",
+          "name": "长亭送别",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240198/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240198/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240198fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240198sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240198/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240198.swa"
+        },
+        {
+          "id": "199",
+          "name": "别云间",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240199/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240199/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240199fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240199sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240199/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240199.swa"
+        },
+        {
+          "id": "200",
+          "name": "感遇（兰叶春葳蕤）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240200/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240200/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240200fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240200sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240200/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240200.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "201",
+          "name": "感遇（江南有丹桔）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240201/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240201/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240201fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240201sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240201/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240201.swa"
+        },
+        {
+          "id": "202",
+          "name": "长歌行",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240202/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240202/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240202fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240202sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240202/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240202.swa"
+        },
+        {
+          "id": "203",
+          "name": "忆王孙·春词",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240203/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240203/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240203fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240203sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240203/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240203.swa"
+        },
+        {
+          "id": "204",
+          "name": "如梦令（常记溪亭日暮）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240204/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240204/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240204fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240204sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240204/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240204.swa"
+        },
+        {
+          "id": "205",
+          "name": "如梦令（昨夜雨疏风骤）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240205/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240205/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240205fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240205sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240205/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240205.swa"
+        },
+        {
+          "id": "206",
+          "name": "相见欢",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240206/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240206/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240206fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240206sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240206/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240206.swa"
+        },
+        {
+          "id": "207",
+          "name": "生查子",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240207/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240207/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240207fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240207sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240207/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240207.swa"
+        },
+        {
+          "id": "208",
+          "name": "减字木兰花·春怨",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240208/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240208/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240208fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240208sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240208/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240208.swa"
+        },
+        {
+          "id": "209",
+          "name": "卜算子·咏梅",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240209/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240209/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240209fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240209sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240209/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240209.swa"
+        },
+        {
+          "id": "210",
+          "name": "卜算子·黄州定慧院寓居作",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240210/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240210/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240210fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240210sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240210/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240210.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "211",
+          "name": "卜算子（不是爱风尘）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240211/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240211/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240211fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240211sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240211/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240211.swa"
+        },
+        {
+          "id": "212",
+          "name": "迢迢牵牛星",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240212/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240212/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240212fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240212sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240212/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240212.swa"
+        },
+        {
+          "id": "213",
+          "name": "龟虽寿",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240213/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240213/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240213fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240213sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240213/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240213.swa"
+        },
+        {
+          "id": "214",
+          "name": "观沧海",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240214/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240214/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240214fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240214sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240214/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240214.swa"
+        },
+        {
+          "id": "215",
+          "name": "渭川田家",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240215/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240215/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240215fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240215sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240215/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240215.swa"
+        },
+        {
+          "id": "216",
+          "name": "夏日南亭怀辛大",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240216/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240216/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240216fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240216sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240216/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240216.swa"
+        },
+        {
+          "id": "217",
+          "name": "轮台歌奉送封大夫出师西征",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240217/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240217/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240217fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240217sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240217/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240217.swa"
+        },
+        {
+          "id": "218",
+          "name": "关山月",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240218/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240218/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240218fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240218sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240218/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240218.swa"
+        },
+        {
+          "id": "219",
+          "name": "行路难",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240219/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240219/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240219fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240219sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240219/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240219.swa"
+        },
+        {
+          "id": "220",
+          "name": "青溪",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240220/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240220/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240220fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240220sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240220/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240220.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "221",
+          "name": "秋登兰山寄张五",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240221/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240221/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240221fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240221sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240221/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240221.swa"
+        },
+        {
+          "id": "222",
+          "name": "古意",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240222/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240222/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240222fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240222sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240222/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240222.swa"
+        },
+        {
+          "id": "223",
+          "name": "白雪歌送武判官归京",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240223/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240223/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240223fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240223sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240223/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240223.swa"
+        },
+        {
+          "id": "224",
+          "name": "月下独酌",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240224/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240224/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240224fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240224sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240224/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240224.swa"
+        },
+        {
+          "id": "225",
+          "name": "丑奴儿·书博山道中壁",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240225/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240225/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240225fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240225sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240225/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240225.swa"
+        },
+        {
+          "id": "226",
+          "name": "木兰花（别后不知君远近）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240226/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240226/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240226fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240226sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240226/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240226.swa"
+        },
+        {
+          "id": "227",
+          "name": "木兰花（东城渐觉风光好）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240227/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240227/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240227fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240227sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240227/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240227.swa"
+        },
+        {
+          "id": "228",
+          "name": "诉衷情",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240228/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240228/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240228fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240228sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240228/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240228.swa"
+        },
+        {
+          "id": "229",
+          "name": "清平乐",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240229/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240229/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240229fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240229sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240229/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240229.swa"
+        },
+        {
+          "id": "230",
+          "name": "西江月·夜行黄沙道中",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240230/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240230/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240230fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240230sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240230/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240230.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "231",
+          "name": "浪淘沙（帘外雨潺潺）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240231/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240231/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240231fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240231sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240231/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240231.swa"
+        },
+        {
+          "id": "232",
+          "name": "浪淘沙（把酒祝东风）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240232/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240232/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240232fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240232sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240232/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240232.swa"
+        },
+        {
+          "id": "233",
+          "name": "鹊桥仙",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240233/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240233/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240233fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240233sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240233/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240233.swa"
+        },
+        {
+          "id": "234",
+          "name": "虞美人",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240234/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240234/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240234fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240234sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240234/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240234.swa"
+        },
+        {
+          "id": "235",
+          "name": "武陵春",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240235/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240235/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240235fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240235sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240235/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240235.swa"
+        },
+        {
+          "id": "236",
+          "name": "醉花阴",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240236/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240236/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240236fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240236sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240236/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240236.swa"
+        },
+        {
+          "id": "237",
+          "name": "鹧鸪天",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240237/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240237/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240237fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240237sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240237/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240237.swa"
+        },
+        {
+          "id": "238",
+          "name": "南乡子·登京口北固亭有怀",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240238/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240238/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240238fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240238sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240238/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240238.swa"
+        },
+        {
+          "id": "239",
+          "name": "踏莎行",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240239/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240239/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240239fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240239sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240239/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240239.swa"
+        },
+        {
+          "id": "240",
+          "name": "蝶恋花（槛菊愁烟兰泣露）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240240/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240240/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240240fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240240sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240240/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240240.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "241",
+          "name": "蝶恋花（伫倚危楼风细细）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240241/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240241/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240241fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240241sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240241/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240241.swa"
+        },
+        {
+          "id": "242",
+          "name": "蝶恋花（醉别西楼醒不记）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240242/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240242/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240242fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240242sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240242/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240242.swa"
+        },
+        {
+          "id": "243",
+          "name": "蝶恋花（庭院深深深几许）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240243/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240243/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240243fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240243sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240243/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240243.swa"
+        },
+        {
+          "id": "244",
+          "name": "蝶恋花（花褪残红青杏小）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240244/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240244/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240244fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240244sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240244/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240244.swa"
+        },
+        {
+          "id": "245",
+          "name": "一剪梅（红藕香残玉簟秋）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240245/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240245/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240245fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240245sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240245/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240245.swa"
+        },
+        {
+          "id": "246",
+          "name": "一剪梅·舟过吴江",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240246/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240246/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240246fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240246sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240246/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240246.swa"
+        },
+        {
+          "id": "247",
+          "name": "关雎",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240247/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240247/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240247fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240247sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240247/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240247.swa"
+        },
+        {
+          "id": "248",
+          "name": "蒹葭",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240248/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240248/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240248fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240248sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240248/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240248.swa"
+        },
+        {
+          "id": "249",
+          "name": "君子于役",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240249/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240249/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240249fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240249sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240249/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240249.swa"
+        },
+        {
+          "id": "250",
+          "name": "氓",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240250/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240250/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240250fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240250sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240250/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240250.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "251",
+          "name": "离骚（节选）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240251/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240251/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240251fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240251sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240251/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240251.swa"
+        },
+        {
+          "id": "252",
+          "name": "陌上桑",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240252/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240252/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240252fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240252sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240252/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240252.swa"
+        },
+        {
+          "id": "253",
+          "name": "短歌行",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240253/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240253/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240253fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240253sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240253/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240253.swa"
+        },
+        {
+          "id": "254",
+          "name": "长相思",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240254/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240254/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240254fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240254sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240254/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240254.swa"
+        },
+        {
+          "id": "255",
+          "name": "李凭箜篌引",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240255/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240255/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240255fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240255sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240255/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240255.swa"
+        },
+        {
+          "id": "256",
+          "name": "西施咏",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240256/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240256/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240256fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240256sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240256/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240256.swa"
+        },
+        {
+          "id": "257",
+          "name": "梦李白",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240257/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240257/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240257fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240257sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240257/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240257.swa"
+        },
+        {
+          "id": "258",
+          "name": "宣州谢朓楼饯别校书叔云",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240258/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240258/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240258fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240258sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240258/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240258.swa"
+        },
+        {
+          "id": "259",
+          "name": "春江花月夜",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240259/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240259/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240259fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240259sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240259/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240259.swa"
+        },
+        {
+          "id": "260",
+          "name": "钗头凤（世情薄）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240260/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240260/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240260fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240260sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240260/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240260.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "261",
+          "name": "钗头凤（红酥手）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240261/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240261/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240261fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240261sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240261/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240261.swa"
+        },
+        {
+          "id": "262",
+          "name": "临江仙",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240262/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240262/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240262fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240262sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240262/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240262.swa"
+        },
+        {
+          "id": "263",
+          "name": "渔家傲（天接云涛连晓雾）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240263/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240263/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240263fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240263sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240263/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240263.swa"
+        },
+        {
+          "id": "264",
+          "name": "渔家傲（塞下秋来风景异）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240264/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240264/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240264fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240264sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240264/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240264.swa"
+        },
+        {
+          "id": "265",
+          "name": "破阵子（醉里挑灯看剑）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240265/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240265/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240265fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240265sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240265/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240265.swa"
+        },
+        {
+          "id": "266",
+          "name": "破阵子（燕子来时新社）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240266/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240266/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240266fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240266sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240266/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240266.swa"
+        },
+        {
+          "id": "267",
+          "name": "苏幕遮",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240267/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240267/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240267fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240267sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240267/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240267.swa"
+        },
+        {
+          "id": "268",
+          "name": "定风波",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240268/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240268/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240268fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240268sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240268/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240268.swa"
+        },
+        {
+          "id": "269",
+          "name": "青玉案·元夕",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240269/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240269/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240269fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240269sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240269/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240269.swa"
+        },
+        {
+          "id": "270",
+          "name": "青玉案（凌波不过横塘路）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240270/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240270/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240270fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240270sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240270/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240270.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "271",
+          "name": "江城子·密州出猎",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240271/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240271/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240271fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240271sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240271/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240271.swa"
+        },
+        {
+          "id": "272",
+          "name": "江城子（十年生死两茫茫）",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240272/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240272/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240272fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240272sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240272/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240272.swa"
+        },
+        {
+          "id": "273",
+          "name": "满江红·怒发冲冠",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240273/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240273/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240273fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240273sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240273/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240273.swa"
+        },
+        {
+          "id": "274",
+          "name": "水调歌头",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240274/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240274/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240274fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240274sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240274/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240274.swa"
+        },
+        {
+          "id": "275",
+          "name": "八声甘州",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240275/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240275/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240275fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240275sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240275/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240275.swa"
+        },
+        {
+          "id": "276",
+          "name": "玉蝴蝶",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240276/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240276/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240276fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240276sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240276/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240276.swa"
+        },
+        {
+          "id": "277",
+          "name": "千秋岁引·秋景",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240277/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240277/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240277fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240277sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240277/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240277.swa"
+        },
+        {
+          "id": "278",
+          "name": "声声慢",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240278/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240278/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240278fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240278sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240278/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240278.swa"
+        },
+        {
+          "id": "279",
+          "name": "扬州慢",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240279/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240279/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240279fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240279sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240279/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240279.swa"
+        },
+        {
+          "id": "280",
+          "name": "念奴娇·赤壁怀古",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240280/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240280/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240280fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240280sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240280/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240280.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "281",
+          "name": "念奴娇·春情",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240281/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240281/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240281fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240281sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240281/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240281.swa"
+        },
+        {
+          "id": "282",
+          "name": "桂枝香·金陵怀古",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240282/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240282/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240282fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240282sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240282/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240282.swa"
+        },
+        {
+          "id": "283",
+          "name": "水龙吟·次韵章质夫杨花词",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240283/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240283/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240283fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240283sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240283/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240283.swa"
+        },
+        {
+          "id": "284",
+          "name": "雨霖铃",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240284/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240284/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240284fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240284sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240284/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240284.swa"
+        },
+        {
+          "id": "285",
+          "name": "永遇乐",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240285/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240285/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240285fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240285sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240285/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240285.swa"
+        },
+        {
+          "id": "286",
+          "name": "永遇乐·京口北固亭怀古",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240286/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240286/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240286fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240286sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240286/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240286.swa"
+        },
+        {
+          "id": "287",
+          "name": "摸鱼儿",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240287/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240287/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240287fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240287sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240287/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240287.swa"
+        },
+        {
+          "id": "288",
+          "name": "木兰诗",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240288/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240288/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240288fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240288sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240288/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240288.swa"
+        },
+        {
+          "id": "289",
+          "name": "赠卫八处士",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240289/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240289/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240289fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240289sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240289/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240289.swa"
+        },
+        {
+          "id": "290",
+          "name": "茅屋为秋风所破歌",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240290/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240290/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240290fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240290sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240290/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240290.swa"
+        }
+      ]
+    },
+    {
+      "kkk": [
+        {
+          "id": "291",
+          "name": "佳人",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240291/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240291/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240291fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240291sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240291/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240291.swa"
+        },
+        {
+          "id": "292",
+          "name": "将进酒",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240292/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240292/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240292fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240292sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240292/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240292.swa"
+        },
+        {
+          "id": "293",
+          "name": "庐山谣寄卢侍御虚舟",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240293/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240293/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240293fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240293sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240293/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240293.swa"
+        },
+        {
+          "id": "294",
+          "name": "兵车行",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240294/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240294/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240294fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240294sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240294/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240294.swa"
+        },
+        {
+          "id": "295",
+          "name": "卖炭翁",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240295/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240295/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240295fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240295sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240295/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240295.swa"
+        },
+        {
+          "id": "296",
+          "name": "观刈麦",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240296/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240296/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240296fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240296sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240296/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240296.swa"
+        },
+        {
+          "id": "297",
+          "name": "琵琶行",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240297/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240297/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240297fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240297sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240297/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240297.swa"
+        },
+        {
+          "id": "298",
+          "name": "长干行",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240298/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240298/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240298fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240298sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240298/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240298.swa"
+        },
+        {
+          "id": "299",
+          "name": "蜀道难",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240299/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240299/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240299fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240299sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240299/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240299.swa"
+        },
+        {
+          "id": "300",
+          "name": "梦游天姥吟留别",
+          "article": "http://121.42.12.218/guoxue/tssc/article_explain/240300/article.html",
+          "explain": "http://121.42.12.218/guoxue/tssc/article_explain/240300/explain.html",
+          "translate": "http://121.42.12.218/guoxue/tssc/translate_scene/240300fy.html",
+          "scene": "http://121.42.12.218/guoxue/tssc/translate_scene/240300sx.html",
+          "kuozhan": "http://121.42.12.218/guoxue/tssc/kuozhan/240300/index.html",
+          "speech": "http://121.42.12.218/guoxue/tssc/speech/240300.swa"
+        }
+      ]
+    }
+  ]
+}
