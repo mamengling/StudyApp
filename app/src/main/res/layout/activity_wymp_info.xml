@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-                xmlns:app="http://schemas.android.com/apk/res-auto"
-                xmlns:tools="http://schemas.android.com/tools"
-                android:id="@+id/rootLayout"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:background="@mipmap/fscreen_bg"
-                tools:context=".ui.TSSCInfoActivity">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/fscreen_bg"
+    tools:context=".ui.WYMPInfoActivity">
 
     <include
         android:id="@+id/title"
-        layout="@layout/activity_bg_title"/>
+        layout="@layout/activity_bg_title" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -49,9 +49,9 @@
                     android:padding="10dp"
                     android:text="正文"
                     android:textSize="16sp"
-                    android:visibility="visible"/>
+                    android:visibility="visible" />
 
-                <View style="@style/bg_line_h"/>
+                <View style="@style/bg_line_h" />
 
                 <TextView
                     android:id="@+id/tv_yw"
@@ -64,9 +64,9 @@
                     android:padding="10dp"
                     android:text="译文"
                     android:textSize="16sp"
-                    android:visibility="visible"/>
+                    android:visibility="visible" />
 
-                <View style="@style/bg_line_h"/>
+                <View style="@style/bg_line_h" />
 
                 <TextView
                     android:id="@+id/tv_zs"
@@ -79,9 +79,9 @@
                     android:padding="10dp"
                     android:text="注释"
                     android:textSize="16sp"
-                    android:visibility="visible"/>
+                    android:visibility="visible" />
 
-                <View style="@style/bg_line_h"/>
+                <View style="@style/bg_line_h" />
 
                 <TextView
                     android:id="@+id/tv_sx"
@@ -92,14 +92,14 @@
                     android:foreground="?android:attr/selectableItemBackground"
                     android:gravity="center"
                     android:padding="10dp"
-                    android:text="赏析"
+                    android:text="背诵"
                     android:textSize="16sp"
-                    android:visibility="visible"/>
+                    android:visibility="visible" />
 
-                <View style="@style/bg_line_h"/>
+                <View style="@style/bg_line_h" />
 
                 <TextView
-                    android:id="@+id/tv_kz"
+                    android:id="@+id/tv_gushi"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="?android:attr/selectableItemBackground"
@@ -107,11 +107,41 @@
                     android:foreground="?android:attr/selectableItemBackground"
                     android:gravity="center"
                     android:padding="10dp"
-                    android:text="扩展"
+                    android:text="本文故事"
                     android:textSize="16sp"
-                    android:visibility="visible"/>
+                    android:visibility="visible" />
 
-                <View style="@style/bg_line_h"/>
+                <View style="@style/bg_line_h" />
+
+                <TextView
+                    android:id="@+id/tv_zhishi"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:clickable="true"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="本文知识"
+                    android:textSize="16sp"
+                    android:visibility="visible" />
+
+                <View style="@style/bg_line_h" />
+
+                <TextView
+                    android:id="@+id/tv_zhiyong"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="?android:attr/selectableItemBackground"
+                    android:clickable="true"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="学以致用"
+                    android:textSize="16sp"
+                    android:visibility="visible" />
+
+                <View style="@style/bg_line_h" />
 
                 <RelativeLayout
                     android:layout_width="match_parent"
@@ -122,14 +152,14 @@
                         layout="@layout/unit_voice_record"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_alignParentBottom="true"/>
+                        android:layout_alignParentBottom="true" />
 
                     <include
                         android:id="@+id/layout_play"
                         layout="@layout/unit_voice_play"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_alignParentBottom="true"/>
+                        android:layout_alignParentBottom="true" />
 
                     <ImageView
                         android:id="@+id/tv_bofang"
@@ -143,13 +173,13 @@
                         android:foreground="?android:attr/selectableItemBackground"
                         android:padding="5dp"
                         android:src="@mipmap/play_s"
-                        android:visibility="gone"/>
+                        android:visibility="gone" />
                 </RelativeLayout>
 
             </LinearLayout>
         </ScrollView>
 
-        <View style="@style/bg_line_v"/>
+        <View style="@style/bg_line_v" />
 
         <LinearLayout
             android:id="@+id/largeLabel"
@@ -167,7 +197,7 @@
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:orientation="horizontal"
-                android:visibility="visible"/>
+                android:visibility="visible" />
 
         </LinearLayout>
 
@@ -192,7 +222,7 @@
             android:clickable="true"
             android:foreground="?android:attr/selectableItemBackground"
             android:padding="5dp"
-            android:src="@mipmap/icon_langdu"/>
+            android:src="@mipmap/icon_langdu" />
 
         <ImageView
             android:id="@+id/tv_luyin"
@@ -204,7 +234,7 @@
             android:clickable="true"
             android:foreground="?android:attr/selectableItemBackground"
             android:padding="5dp"
-            android:src="@mipmap/icon_luyin"/>
+            android:src="@mipmap/icon_luyin" />
 
 
         <ImageView
@@ -217,7 +247,7 @@
             android:foreground="?android:attr/selectableItemBackground"
             android:padding="5dp"
             android:text="音频保存"
-            android:visibility="gone"/>
+            android:visibility="gone" />
     </LinearLayout>
 
     <TextView
@@ -232,7 +262,7 @@
         android:foreground="?android:attr/selectableItemBackground"
         android:padding="10dp"
         android:text="搜索"
-        android:textSize="25sp"/>
+        android:textSize="25sp" />
 
     <TextView
         android:id="@+id/tv_return"
@@ -246,5 +276,5 @@
         android:foreground="?android:attr/selectableItemBackground"
         android:padding="10dp"
         android:text="返回"
-        android:textSize="25sp"/>
+        android:textSize="25sp" />
 </RelativeLayout>

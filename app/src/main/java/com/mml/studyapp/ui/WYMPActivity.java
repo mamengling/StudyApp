@@ -1,5 +1,6 @@
 package com.mml.studyapp.ui;
 
+import android.content.Intent;
 import android.view.View;
 
 import com.mml.studyapp.R;
@@ -16,7 +17,7 @@ import com.mml.studyapp.utils.widget.TitleBar;
 public class WYMPActivity extends BaseCompatActivity implements View.OnClickListener{
     @Override
     protected void titleBarSet(TitleBar titleBar) {
-
+        titleBar.setVisibility(View.GONE);
     }
 
     @Override
@@ -27,6 +28,10 @@ public class WYMPActivity extends BaseCompatActivity implements View.OnClickList
     @Override
     protected void onCreateViewContent(View view) {
         view.findViewById(R.id.tv_return).setOnClickListener(this);
+        view.findViewById(R.id.tv_gwrm).setOnClickListener(this);
+        view.findViewById(R.id.tv_bpbb).setOnClickListener(this);
+        view.findViewById(R.id.tv_gzts).setOnClickListener(this);
+        view.findViewById(R.id.tv_nlxl).setOnClickListener(this);
     }
 
     @Override
@@ -54,6 +59,22 @@ public class WYMPActivity extends BaseCompatActivity implements View.OnClickList
         switch (v.getId()){
             case R.id.tv_return:
                 ActivityAnim.endActivity(this);
+                break;
+            case R.id.tv_gwrm:
+                Intent intentGWRM=new Intent(this,WYMPMuluActivity.class);
+                ActivityAnim.intentActivity(this,intentGWRM);
+                break;
+            case R.id.tv_bpbb:
+                Intent intentBPBB=new Intent(this,WYMPMuluActivity.class);
+                ActivityAnim.intentActivity(this,intentBPBB);
+                break;
+            case R.id.tv_gzts:
+                Intent intentGZTS=new Intent(this,WYMPMuluActivity.class);
+                ActivityAnim.intentActivity(this,intentGZTS);
+                break;
+            case R.id.tv_nlxl:
+                Intent intentNLXL=new Intent(this,WYMPMuluActivity.class);
+                ActivityAnim.intentActivity(this,intentNLXL);
                 break;
         }
     }

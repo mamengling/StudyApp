@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-                xmlns:tools="http://schemas.android.com/tools"
-                android:id="@+id/rootLayout"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:background="@mipmap/fscreen_bg"
-                tools:context=".ui.TSSCActivity">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rootLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/fscreen_bg"
+    tools:context=".ui.WYMPActivity">
 
-    <include android:id="@+id/title"
-             layout="@layout/activity_bg_title"/>
+    <include
+        android:id="@+id/title"
+        layout="@layout/activity_bg_title" />
 
     <ImageView
         android:id="@+id/image"
-        android:layout_width="373dp"
-        android:layout_height="437dp"
-        android:layout_above="@+id/search"
-        android:layout_below="@+id/title"
+        android:layout_width="491dp"
+        android:layout_height="457dp"
+        android:layout_above="@+id/tv_return"
         android:layout_marginLeft="180dp"
-        android:src="@mipmap/wymp_info_logo"/>
+        android:scaleType="centerInside"
+        android:src="@mipmap/wymp_info_logo" />
 
 
     <LinearLayout
@@ -28,21 +29,80 @@
         android:layout_alignParentRight="true"
         android:layout_below="@+id/title"
         android:layout_marginBottom="24dp"
+        android:layout_marginLeft="50dp"
         android:layout_marginRight="100dp"
         android:layout_marginTop="24dp"
         android:layout_toRightOf="@+id/image"
+        android:gravity="center"
         android:orientation="vertical">
 
-        <ListView
-            android:id="@+id/recycler_view"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:numColumns="2"
-            android:divider="@null"
-            android:background="@null"
-            android:orientation="horizontal"/>
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
 
+            <TextView
+                android:id="@+id/tv_gwrm"
+                android:layout_width="180dp"
+                android:layout_height="180dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:background="@mipmap/wymp_circle_icon_bg"
+                android:clickable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:gravity="center"
+                android:text="古文入门"
+                android:textColor="@color/gplus_color_6"
+                android:textSize="@dimen/textsize_10" />
+
+            <TextView
+                android:id="@+id/tv_bpbb"
+                android:layout_width="180dp"
+                android:layout_height="180dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="50dp"
+                android:background="@mipmap/wymp_circle_icon_bg"
+                android:clickable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:gravity="center"
+                android:text="百篇必背"
+                android:textColor="@color/gplus_color_6"
+                android:textSize="@dimen/textsize_10" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_gzts"
+                android:layout_width="180dp"
+                android:layout_height="180dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:background="@mipmap/wymp_circle_icon_bg"
+                android:clickable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:gravity="center"
+                android:text="扩展提升"
+                android:textColor="@color/gplus_color_6"
+                android:textSize="@dimen/textsize_10" />
+
+            <TextView
+                android:id="@+id/tv_nlxl"
+                android:layout_width="180dp"
+                android:layout_height="180dp"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="50dp"
+                android:background="@mipmap/wymp_circle_icon_bg"
+                android:clickable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:gravity="center"
+                android:text="能力训练"
+                android:textColor="@color/gplus_color_6"
+                android:textSize="@dimen/textsize_10" />
+        </RelativeLayout>
     </LinearLayout>
 
 
@@ -58,8 +118,8 @@
         android:foreground="?android:attr/selectableItemBackground"
         android:padding="10dp"
         android:text="搜索"
-        android:visibility="gone"
-        android:textSize="25sp"/>
+        android:textSize="25sp"
+        android:visibility="gone" />
 
     <TextView
         android:id="@+id/tv_return"
@@ -73,5 +133,5 @@
         android:foreground="?android:attr/selectableItemBackground"
         android:padding="10dp"
         android:text="返回"
-        android:textSize="25sp"/>
+        android:textSize="25sp" />
 </RelativeLayout>

@@ -71,6 +71,18 @@
             android:screenOrientation="landscape"
             android:windowSoftInputMode="stateHidden"/>
         <activity
+            android:name=".ui.WYMPMuluActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateHidden"/>
+        <activity
+            android:name=".ui.WYMPInfoActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateHidden"/>
+        <activity
             android:name=".ui.ZGWHActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/app_name"
