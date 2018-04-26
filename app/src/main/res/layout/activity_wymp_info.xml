@@ -84,7 +84,7 @@
                 <View style="@style/bg_line_h" />
 
                 <TextView
-                    android:id="@+id/tv_sx"
+                    android:id="@+id/tv_bs"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="?android:attr/selectableItemBackground"
