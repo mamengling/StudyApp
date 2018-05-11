@@ -197,4 +197,9 @@ public class TSSCInfoActivity extends BaseCompatActivity implements View.OnClick
                 break;
         }
     }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+    }
 }
