@@ -1,0 +1,139 @@
+{
+  "jdmz": [
+    {
+      "mulu": "儿童经典",
+      "detail": [
+        {
+          "id": "1",
+          "name": "伊索寓言",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/1.1.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//etjd/1.1/index.htm"
+        },
+        {
+          "id": "2",
+          "name": "安徒生童话",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/1.2.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//etjd/1.2/index.htm"
+        },
+        {
+          "id": "3",
+          "name": "格列佛游记",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/1.3.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//etjd/1.3/index.htm"
+        }
+      ]
+    },
+    {
+      "mulu": "现当代名著",
+      "detail": [
+        {
+          "id": "1",
+          "name": "家",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/2.1.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//xddmz/1.1/index.htm"
+        },
+        {
+          "id": "2",
+          "name": "春",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/2.2.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//xddmz/1.2/index.htm"
+        },
+        {
+          "id": "3",
+          "name": "秋",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/2.1.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//xddmz/1.3/index.htm"
+        },
+        {
+          "id": "4",
+          "name": "子夜",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/2.4.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//xddmz/1.4/index.htm"
+        },
+        {
+          "id": "5",
+          "name": "青春之歌",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/2.5.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//xddmz/1.5/index.htm"
+        },
+        {
+          "id": "6",
+          "name": "平凡的世界",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/2.6.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//xddmz/1.6/index.htm"
+        },
+        {
+          "id": "7",
+          "name": "阿q正传",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/2.7.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//xddmz/1.7/index.htm"
+        },
+        {
+          "id": "8",
+          "name": "边城",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/2.8.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//xddmz/1.8/index.htm"
+        },
+        {
+          "id": "9",
+          "name": "茶馆",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/2.9.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//xddmz/1.9/index.htm"
+        },
+        {
+          "id": "10",
+          "name": "稻草人",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/2.10.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//xddmz/1.10/index.htm"
+        },
+        {
+          "id": "11",
+          "name": "繁星·春水",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/2.11.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//xddmz/1.11/index.htm"
+        },
+        {
+          "id": "12",
+          "name": "雷雨",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/2.12.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//xddmz/1.12/index.htm"
+        },
+        {
+          "id": "13",
+          "name": "围城",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/2.13.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//xddmz/1.13/index.htm"
+        }
+      ]
+    },
+    {
+      "mulu": "古典名著",
+      "detail": [
+        {
+          "id": "1",
+          "name": "三国演义",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/3.1.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//gdmz/1.1/index.htm"
+        },
+        {
+          "id": "2",
+          "name": "水浒传",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/3.2.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//gdmz/1.2/index.htm"
+        },
+        {
+          "id": "3",
+          "name": "西游记",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/3.3.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//gdmz/1.3/index.htm"
+        },
+        {
+          "id": "4",
+          "name": "红楼梦",
+          "img": "http://121.42.12.218/guoxue/jdmz//img/3.4.png",
+          "article": "http://121.42.12.218/guoxue/jdmz//gdmz/1.4/index.htm"
+        }
+      ]
+    }
+  ]
+}
