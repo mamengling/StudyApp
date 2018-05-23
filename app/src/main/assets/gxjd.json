@@ -1,0 +1,2438 @@
+{
+  "qmdw": [
+    {
+      "mulu": "三字经",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "三字经",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/310001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/310001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/310001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/310001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/310001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/310001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/310001.swa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mulu": "百家姓",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "百家姓",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/320001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/320001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/320001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/320001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/320001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/320001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/320001.swa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mulu": "千字文",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "千字文",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/330001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/330001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/330001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/330001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/330001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/330001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/330001.swa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mulu": "弟子规",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "弟子规",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/340001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/340001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/340001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/340001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/340001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/340001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/340001.swa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mulu": "增广贤文",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "昔时贤文",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/350001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/350001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/350001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/350001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/350001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/350001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/350001.swa"
+            },
+            {
+              "id": "2",
+              "name": "送君千里",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/350002/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/350002/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/350002/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/350002/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/350002zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/350002zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/350002.swa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mulu": "幼学琼林",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "天文",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360001.swa"
+            },
+            {
+              "id": "2",
+              "name": "地舆 ",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360002/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360002/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360002/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360002/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360002zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360002zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360002.swa"
+            },
+            {
+              "id": "3",
+              "name": "岁时 ",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360003/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360003/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360003/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360003/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360003zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360003zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360003.swa"
+            },
+            {
+              "id": "4",
+              "name": "朝廷 ",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360004/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360004/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360004/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360004/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360004zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360004zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360004.swa"
+            },
+            {
+              "id": "5",
+              "name": "文臣",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360005/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360005/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360005/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360005/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360005zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360005zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360005.swa"
+            },
+            {
+              "id": "6",
+              "name": "武职",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360006/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360006/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360006/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360006/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360006zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360006zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360006.swa"
+            },
+            {
+              "id": "7",
+              "name": "祖孙父子",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360007/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360007/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360007/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360007/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360007zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360007zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360007.swa"
+            },
+            {
+              "id": "8",
+              "name": "兄弟",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360008/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360008/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360008/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360008/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360008zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360008zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360008.swa"
+            },
+            {
+              "id": "9",
+              "name": "夫妇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360009/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360009/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360009/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360009/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360009zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360009zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360009.swa"
+            },
+            {
+              "id": "10",
+              "name": "叔侄",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360010/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360010/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360010/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360010/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360010zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360010zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360010.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "11",
+              "name": "师生",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360011/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360011/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360011/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360011/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360011zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360011zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360011.swa"
+            },
+            {
+              "id": "12",
+              "name": "朋友宾主",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360012/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360012/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360012/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360012/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360012zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360012zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360012.swa"
+            },
+            {
+              "id": "13",
+              "name": "婚姻",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360013/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360013/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360013/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360013/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360013zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360013zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360013.swa"
+            },
+            {
+              "id": "14",
+              "name": "女子",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360014/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360014/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360014/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360014/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360014zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360014zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360014.swa"
+            },
+            {
+              "id": "15",
+              "name": "外戚",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360015/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360015/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360015/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360015/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360015zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360015zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360015.swa"
+            },
+            {
+              "id": "16",
+              "name": "老幼寿诞",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360016/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360016/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360016/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360016/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360016zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360016zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360016.swa"
+            },
+            {
+              "id": "17",
+              "name": "身体",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360017/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360017/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360017/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360017/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360017zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360017zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360017.swa"
+            },
+            {
+              "id": "18",
+              "name": "衣服",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360018/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360018/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360018/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360018/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360018zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360018zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360018.swa"
+            },
+            {
+              "id": "19",
+              "name": "人事",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360019/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360019/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360019/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360019/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360019zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360019zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360019.swa"
+            },
+            {
+              "id": "20",
+              "name": "饮食",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360020/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360020/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360020/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360020/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360020zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360020zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360020.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "21",
+              "name": "宫室",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360021/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360021/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360021/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360021/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360021zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360021zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360021.swa"
+            },
+            {
+              "id": "22",
+              "name": "器用",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360022/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360022/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360022/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360022/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360022zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360022zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360022.swa"
+            },
+            {
+              "id": "23",
+              "name": "珍宝",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360023/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360023/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360023/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360023/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360023zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360023zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360023.swa"
+            },
+            {
+              "id": "24",
+              "name": "贫富",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360024/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360024/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360024/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360024/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360024zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360024zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360024.swa"
+            },
+            {
+              "id": "25",
+              "name": "疾病死丧",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360025/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360025/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360025/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360025/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360025zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360025zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360025.swa"
+            },
+            {
+              "id": "26",
+              "name": "文事",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360026/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360026/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360026/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360026/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360026zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360026zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360026.swa"
+            },
+            {
+              "id": "27",
+              "name": "科第",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360027/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360027/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360027/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360027/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360027zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360027zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360027.swa"
+            },
+            {
+              "id": "28",
+              "name": "制作",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360028/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360028/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360028/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360028/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360028zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360028zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360028.swa"
+            },
+            {
+              "id": "29",
+              "name": "技艺",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360029/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360029/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360029/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360029/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360029zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360029zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360029.swa"
+            },
+            {
+              "id": "30",
+              "name": "讼狱",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360030/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360030/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360030/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360030/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360030zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360030zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360030.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "31",
+              "name": "释道鬼神",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360031/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360031/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360031/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360031/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360031zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360031zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360031.swa"
+            },
+            {
+              "id": "32",
+              "name": "鸟兽",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360032/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360032/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360032/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360032/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360032zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360032zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360032.swa"
+            },
+            {
+              "id": "33",
+              "name": "花木",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/360033/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/360033/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/360033/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/360033/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/360033zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/360033zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/360033.swa"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sxyd": [
+    {
+      "mulu": "易经",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "易经系辞上",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/410001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/410001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/410001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/410001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/410001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/410001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/410001.swa"
+            },
+            {
+              "id": "2",
+              "name": "易经系辞下",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/410002/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/410002/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/410002/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/410002/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/410002zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/410002zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/410002.swa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mulu": "论语",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "学而第一",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420001.swa"
+            },
+            {
+              "id": "2",
+              "name": "为政第二",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420002/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420002/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420002/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420002/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420002zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420002zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420002.swa"
+            },
+            {
+              "id": "3",
+              "name": "八佾第三",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420003/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420003/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420003/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420003/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420003zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420003zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420003.swa"
+            },
+            {
+              "id": "4",
+              "name": "里仁第四",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420004/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420004/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420004/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420004/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420004zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420004zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420004.swa"
+            },
+            {
+              "id": "5",
+              "name": "公冶长第五",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420005/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420005/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420005/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420005/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420005zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420005zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420005.swa"
+            },
+            {
+              "id": "6",
+              "name": "雍也第六",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420006/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420006/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420006/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420006/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420006zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420006zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420006.swa"
+            },
+            {
+              "id": "7",
+              "name": "述而第七",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420007/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420007/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420007/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420007/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420007zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420007zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420007.swa"
+            },
+            {
+              "id": "8",
+              "name": "泰伯第八",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420008/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420008/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420008/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420008/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420008zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420008zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420008.swa"
+            },
+            {
+              "id": "9",
+              "name": "子罕第九",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420009/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420009/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420009/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420009/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420009zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420009zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420009.swa"
+            },
+            {
+              "id": "10",
+              "name": "乡党第十",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420010/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420010/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420010/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420010/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420010zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420010zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420010.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "11",
+              "name": "先进第十一",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420011/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420011/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420011/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420011/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420011zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420011zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420011.swa"
+            },
+            {
+              "id": "12",
+              "name": "颜渊第十二",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420012/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420012/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420012/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420012/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420012zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420012zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420012.swa"
+            },
+            {
+              "id": "13",
+              "name": "子路第十三",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420013/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420013/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420013/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420013/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420013zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420013zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420013.swa"
+            },
+            {
+              "id": "14",
+              "name": "宪问第十四",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420014/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420014/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420014/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420014/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420014zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420014zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420014.swa"
+            },
+            {
+              "id": "15",
+              "name": "卫灵公第十五",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420015/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420015/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420015/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420015/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420015zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420015zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420015.swa"
+            },
+            {
+              "id": "16",
+              "name": "季氏第十六",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420016/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420016/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420016/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420016/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420016zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420016zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420016.swa"
+            },
+            {
+              "id": "17",
+              "name": "阳货第十七",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420017/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420017/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420017/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420017/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420017zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420017zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420017.swa"
+            },
+            {
+              "id": "18",
+              "name": "微子第十八",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420018/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420018/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420018/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420018/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420018zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420018zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420018.swa"
+            },
+            {
+              "id": "19",
+              "name": "子张第十九",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420019/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420019/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420019/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420019/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420019zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420019zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420019.swa"
+            },
+            {
+              "id": "20",
+              "name": "尧曰第二十",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/420020/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/420020/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/420020/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/420020/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/420020zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/420020zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/420020.swa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mulu": "孟子",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "寡人之于国也",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/430001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/430001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/430001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/430001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/430001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/430001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/430001.swa"
+            },
+            {
+              "id": "2",
+              "name": "齐桓晋文之事",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/430002/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/430002/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/430002/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/430002/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/430002zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/430002zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/430002.swa"
+            },
+            {
+              "id": "3",
+              "name": "庄暴见孟子",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/430003/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/430003/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/430003/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/430003/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/430003zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/430003zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/430003.swa"
+            },
+            {
+              "id": "4",
+              "name": "王顾左右而言他",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/430004/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/430004/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/430004/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/430004/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/430004zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/430004zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/430004.swa"
+            },
+            {
+              "id": "5",
+              "name": "齐人伐燕",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/430005/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/430005/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/430005/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/430005/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/430005zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/430005zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/430005.swa"
+            },
+            {
+              "id": "6",
+              "name": "人皆有不忍人之心",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/430006/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/430006/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/430006/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/430006/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/430006zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/430006zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/430006.swa"
+            },
+            {
+              "id": "7",
+              "name": "天时不如地利",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/430007/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/430007/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/430007/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/430007/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/430007zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/430007zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/430007.swa"
+            },
+            {
+              "id": "8",
+              "name": "有为神农之言者许行",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/430008/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/430008/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/430008/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/430008/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/430008zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/430008zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/430008.swa"
+            },
+            {
+              "id": "9",
+              "name": "不见诸侯",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/430009/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/430009/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/430009/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/430009/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/430009zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/430009zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/430009.swa"
+            },
+            {
+              "id": "10",
+              "name": "逢蒙学射于羿",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/430010/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/430010/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/430010/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/430010/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/430010zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/430010zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/430010.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "11",
+              "name": "齐人有一妻一妾",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/430011/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/430011/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/430011/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/430011/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/430011zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/430011zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/430011.swa"
+            },
+            {
+              "id": "12",
+              "name": "鱼我所欲也",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/430012/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/430012/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/430012/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/430012/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/430012zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/430012zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/430012.swa"
+            },
+            {
+              "id": "13",
+              "name": "生于忧患死于安乐",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/430013/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/430013/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/430013/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/430013/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/430013zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/430013zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/430013.swa"
+            },
+            {
+              "id": "14",
+              "name": "孔子登东山而小鲁",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/430014/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/430014/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/430014/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/430014/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/430014zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/430014zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/430014.swa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mulu": "大学",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "大学",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/440001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/440001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/440001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/440001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/440001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/440001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/440001.swa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mulu": "中庸",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "中庸",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/450001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/450001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/450001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/450001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/450001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/450001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/450001.swa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mulu": "老子",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "第一章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460001.swa"
+            },
+            {
+              "id": "2",
+              "name": "第二章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460002/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460002/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460002/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460002/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460002zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460002zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460002.swa"
+            },
+            {
+              "id": "3",
+              "name": "第三章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460003/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460003/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460003/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460003/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460003zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460003zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460003.swa"
+            },
+            {
+              "id": "4",
+              "name": "第四章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460004/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460004/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460004/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460004/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460004zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460004zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460004.swa"
+            },
+            {
+              "id": "5",
+              "name": "第五章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460005/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460005/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460005/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460005/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460005zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460005zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460005.swa"
+            },
+            {
+              "id": "6",
+              "name": "第六章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460006/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460006/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460006/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460006/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460006zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460006zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460006.swa"
+            },
+            {
+              "id": "7",
+              "name": "第七章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460007/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460007/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460007/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460007/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460007zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460007zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460007.swa"
+            },
+            {
+              "id": "8",
+              "name": "第八章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460008/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460008/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460008/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460008/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460008zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460008zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460008.swa"
+            },
+            {
+              "id": "9",
+              "name": "第九章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460009/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460009/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460009/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460009/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460009zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460009zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460009.swa"
+            },
+            {
+              "id": "10",
+              "name": "第十章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460010/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460010/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460010/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460010/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460010zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460010zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460010.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "11",
+              "name": "第十一章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460011/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460011/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460011/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460011/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460011zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460011zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460011.swa"
+            },
+            {
+              "id": "12",
+              "name": "第十二章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460012/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460012/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460012/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460012/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460012zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460012zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460012.swa"
+            },
+            {
+              "id": "13",
+              "name": "第十三章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460013/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460013/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460013/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460013/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460013zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460013zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460013.swa"
+            },
+            {
+              "id": "14",
+              "name": "第十四章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460014/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460014/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460014/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460014/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460014zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460014zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460014.swa"
+            },
+            {
+              "id": "15",
+              "name": "第十五章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460015/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460015/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460015/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460015/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460015zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460015zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460015.swa"
+            },
+            {
+              "id": "16",
+              "name": "第十六章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460016/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460016/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460016/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460016/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460016zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460016zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460016.swa"
+            },
+            {
+              "id": "17",
+              "name": "第十七章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460017/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460017/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460017/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460017/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460017zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460017zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460017.swa"
+            },
+            {
+              "id": "18",
+              "name": "第十八章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460018/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460018/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460018/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460018/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460018zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460018zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460018.swa"
+            },
+            {
+              "id": "19",
+              "name": "第十九章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460019/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460019/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460019/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460019/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460019zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460019zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460019.swa"
+            },
+            {
+              "id": "20",
+              "name": "第二十章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460020/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460020/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460020/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460020/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460020zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460020zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460020.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "21",
+              "name": "第二十一章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460021/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460021/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460021/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460021/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460021zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460021zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460021.swa"
+            },
+            {
+              "id": "22",
+              "name": "第二十二章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460022/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460022/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460022/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460022/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460022zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460022zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460022.swa"
+            },
+            {
+              "id": "23",
+              "name": "第二十三章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460023/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460023/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460023/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460023/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460023zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460023zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460023.swa"
+            },
+            {
+              "id": "24",
+              "name": "第二十四章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460024/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460024/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460024/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460024/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460024zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460024zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460024.swa"
+            },
+            {
+              "id": "25",
+              "name": "第二十五章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460025/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460025/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460025/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460025/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460025zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460025zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460025.swa"
+            },
+            {
+              "id": "26",
+              "name": "第二十六章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460026/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460026/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460026/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460026/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460026zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460026zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460026.swa"
+            },
+            {
+              "id": "27",
+              "name": "第二十七章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460027/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460027/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460027/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460027/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460027zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460027zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460027.swa"
+            },
+            {
+              "id": "28",
+              "name": "第二十八章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460028/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460028/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460028/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460028/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460028zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460028zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460028.swa"
+            },
+            {
+              "id": "29",
+              "name": "第二十九章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460029/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460029/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460029/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460029/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460029zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460029zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460029.swa"
+            },
+            {
+              "id": "30",
+              "name": "第三十章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460030/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460030/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460030/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460030/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460030zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460030zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460030.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "31",
+              "name": "第三十一章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460031/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460031/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460031/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460031/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460031zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460031zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460031.swa"
+            },
+            {
+              "id": "32",
+              "name": "第三十二章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460032/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460032/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460032/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460032/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460032zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460032zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460032.swa"
+            },
+            {
+              "id": "33",
+              "name": "第三十三章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460033/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460033/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460033/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460033/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460033zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460033zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460033.swa"
+            },
+            {
+              "id": "34",
+              "name": "第三十四章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460034/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460034/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460034/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460034/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460034zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460034zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460034.swa"
+            },
+            {
+              "id": "35",
+              "name": "第三十五章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460035/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460035/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460035/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460035/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460035zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460035zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460035.swa"
+            },
+            {
+              "id": "36",
+              "name": "第三十六章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460036/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460036/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460036/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460036/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460036zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460036zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460036.swa"
+            },
+            {
+              "id": "37",
+              "name": "第三十七章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460037/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460037/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460037/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460037/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460037zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460037zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460037.swa"
+            },
+            {
+              "id": "38",
+              "name": "第三十八章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460038/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460038/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460038/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460038/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460038zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460038zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460038.swa"
+            },
+            {
+              "id": "39",
+              "name": "第三十九章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460039/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460039/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460039/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460039/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460039zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460039zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460039.swa"
+            },
+            {
+              "id": "40",
+              "name": "第四十章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460040/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460040/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460040/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460040/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460040zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460040zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460040.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "41",
+              "name": "第四十一章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460041/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460041/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460041/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460041/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460041zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460041zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460041.swa"
+            },
+            {
+              "id": "42",
+              "name": "第四十二章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460042/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460042/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460042/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460042/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460042zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460042zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460042.swa"
+            },
+            {
+              "id": "43",
+              "name": "第四十三章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460043/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460043/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460043/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460043/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460043zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460043zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460043.swa"
+            },
+            {
+              "id": "44",
+              "name": "第四十四章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460044/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460044/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460044/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460044/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460044zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460044zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460044.swa"
+            },
+            {
+              "id": "45",
+              "name": "第四十五章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460045/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460045/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460045/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460045/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460045zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460045zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460045.swa"
+            },
+            {
+              "id": "46",
+              "name": "第四十六章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460046/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460046/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460046/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460046/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460046zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460046zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460046.swa"
+            },
+            {
+              "id": "47",
+              "name": "第四十七章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460047/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460047/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460047/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460047/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460047zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460047zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460047.swa"
+            },
+            {
+              "id": "48",
+              "name": "第四十八章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460048/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460048/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460048/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460048/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460048zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460048zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460048.swa"
+            },
+            {
+              "id": "49",
+              "name": "第四十九章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460049/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460049/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460049/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460049/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460049zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460049zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460049.swa"
+            },
+            {
+              "id": "50",
+              "name": "第五十章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460050/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460050/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460050/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460050/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460050zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460050zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460050.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "51",
+              "name": "第五十一章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460051/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460051/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460051/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460051/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460051zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460051zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460051.swa"
+            },
+            {
+              "id": "52",
+              "name": "第五十二章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460052/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460052/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460052/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460052/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460052zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460052zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460052.swa"
+            },
+            {
+              "id": "53",
+              "name": "第五十三章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460053/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460053/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460053/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460053/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460053zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460053zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460053.swa"
+            },
+            {
+              "id": "54",
+              "name": "第五十四章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460054/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460054/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460054/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460054/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460054zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460054zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460054.swa"
+            },
+            {
+              "id": "55",
+              "name": "第五十五章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460055/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460055/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460055/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460055/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460055zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460055zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460055.swa"
+            },
+            {
+              "id": "56",
+              "name": "第五十六章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460056/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460056/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460056/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460056/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460056zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460056zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460056.swa"
+            },
+            {
+              "id": "57",
+              "name": "第五十七章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460057/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460057/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460057/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460057/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460057zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460057zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460057.swa"
+            },
+            {
+              "id": "58",
+              "name": "第五十八章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460058/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460058/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460058/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460058/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460058zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460058zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460058.swa"
+            },
+            {
+              "id": "59",
+              "name": "第五十九章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460059/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460059/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460059/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460059/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460059zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460059zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460059.swa"
+            },
+            {
+              "id": "60",
+              "name": "第六十章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460060/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460060/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460060/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460060/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460060zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460060zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460060.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "61",
+              "name": "第六十一章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460061/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460061/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460061/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460061/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460061zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460061zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460061.swa"
+            },
+            {
+              "id": "62",
+              "name": "第六十二章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460062/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460062/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460062/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460062/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460062zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460062zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460062.swa"
+            },
+            {
+              "id": "63",
+              "name": "第六十三章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460063/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460063/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460063/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460063/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460063zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460063zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460063.swa"
+            },
+            {
+              "id": "64",
+              "name": "第六十四章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460064/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460064/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460064/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460064/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460064zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460064zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460064.swa"
+            },
+            {
+              "id": "65",
+              "name": "第六十五章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460065/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460065/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460065/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460065/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460065zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460065zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460065.swa"
+            },
+            {
+              "id": "66",
+              "name": "第六十六章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460066/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460066/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460066/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460066/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460066zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460066zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460066.swa"
+            },
+            {
+              "id": "67",
+              "name": "第六十七章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460067/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460067/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460067/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460067/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460067zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460067zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460067.swa"
+            },
+            {
+              "id": "68",
+              "name": "第六十八章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460068/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460068/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460068/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460068/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460068zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460068zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460068.swa"
+            },
+            {
+              "id": "69",
+              "name": "第六十九章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460069/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460069/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460069/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460069/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460069zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460069zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460069.swa"
+            },
+            {
+              "id": "70",
+              "name": "第七十章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460070/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460070/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460070/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460070/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460070zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460070zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460070.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "71",
+              "name": "第七十一章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460071/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460071/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460071/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460071/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460071zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460071zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460071.swa"
+            },
+            {
+              "id": "72",
+              "name": "第七十二章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460072/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460072/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460072/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460072/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460072zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460072zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460072.swa"
+            },
+            {
+              "id": "73",
+              "name": "第七十三章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460073/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460073/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460073/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460073/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460073zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460073zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460073.swa"
+            },
+            {
+              "id": "74",
+              "name": "第七十四章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460074/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460074/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460074/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460074/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460074zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460074zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460074.swa"
+            },
+            {
+              "id": "75",
+              "name": "第七十五章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460075/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460075/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460075/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460075/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460075zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460075zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460075.swa"
+            },
+            {
+              "id": "76",
+              "name": "第七十六章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460076/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460076/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460076/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460076/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460076zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460076zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460076.swa"
+            },
+            {
+              "id": "77",
+              "name": "第七十七章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460077/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460077/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460077/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460077/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460077zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460077zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460077.swa"
+            },
+            {
+              "id": "78",
+              "name": "第七十八章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460078/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460078/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460078/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460078/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460078zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460078zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460078.swa"
+            },
+            {
+              "id": "79",
+              "name": "第七十九章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460079/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460079/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460079/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460079/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460079zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460079zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460079.swa"
+            },
+            {
+              "id": "80",
+              "name": "第八十章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460080/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460080/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460080/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460080/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460080zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460080zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460080.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "81",
+              "name": "第八十一章",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/460081/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/460081/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/460081/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/460081/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/460081zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/460081zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/460081.swa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mulu": "庄子",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "逍遥游",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/470001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/470001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/470001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/470001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/470001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/470001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/470001.swa"
+            },
+            {
+              "id": "2",
+              "name": "养生主",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/470002/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/470002/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/470002/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/470002/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/470002zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/470002zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/470002.swa"
+            },
+            {
+              "id": "3",
+              "name": "马蹄",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/470003/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/470003/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/470003/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/470003/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/470003zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/470003zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/470003.swa"
+            },
+            {
+              "id": "4",
+              "name": "胠箧",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/470004/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/470004/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/470004/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/470004/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/470004zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/470004zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/470004.swa"
+            },
+            {
+              "id": "5",
+              "name": "秋水",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/470005/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/470005/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/470005/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/470005/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/470005zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/470005zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/470005.swa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mulu": "孙子兵法",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "计篇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/480001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/480001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/480001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/480001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/480001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/480001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/480001.swa"
+            },
+            {
+              "id": "2",
+              "name": "作战篇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/480002/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/480002/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/480002/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/480002/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/480002zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/480002zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/480002.swa"
+            },
+            {
+              "id": "3",
+              "name": "谋攻篇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/480003/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/480003/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/480003/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/480003/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/480003zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/480003zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/480003.swa"
+            },
+            {
+              "id": "4",
+              "name": "形篇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/480004/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/480004/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/480004/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/480004/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/480004zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/480004zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/480004.swa"
+            },
+            {
+              "id": "5",
+              "name": "势篇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/480005/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/480005/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/480005/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/480005/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/480005zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/480005zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/480005.swa"
+            },
+            {
+              "id": "6",
+              "name": "虚实篇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/480006/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/480006/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/480006/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/480006/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/480006zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/480006zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/480006.swa"
+            },
+            {
+              "id": "7",
+              "name": "军争篇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/480007/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/480007/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/480007/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/480007/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/480007zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/480007zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/480007.swa"
+            },
+            {
+              "id": "8",
+              "name": "九变篇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/480008/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/480008/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/480008/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/480008/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/480008zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/480008zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/480008.swa"
+            },
+            {
+              "id": "9",
+              "name": "行军篇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/480009/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/480009/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/480009/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/480009/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/480009zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/480009zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/480009.swa"
+            },
+            {
+              "id": "10",
+              "name": "地形篇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/480010/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/480010/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/480010/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/480010/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/480010zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/480010zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/480010.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "11",
+              "name": "九地篇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/480011/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/480011/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/480011/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/480011/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/480011zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/480011zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/480011.swa"
+            },
+            {
+              "id": "12",
+              "name": "火攻篇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/480012/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/480012/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/480012/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/480012/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/480012zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/480012zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/480012.swa"
+            },
+            {
+              "id": "13",
+              "name": "用间篇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/480013/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/480013/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/480013/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/480013/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/480013zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/480013zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/480013.swa"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "mulu": "诗经",
+      "detail": [
+        {
+          "kkk": [
+            {
+              "id": "1",
+              "name": "关雎",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490001/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490001/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490001/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490001/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490001zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490001zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490001.swa"
+            },
+            {
+              "id": "2",
+              "name": "静女",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490002/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490002/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490002/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490002/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490002zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490002zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490002.swa"
+            },
+            {
+              "id": "3",
+              "name": "柏舟",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490003/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490003/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490003/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490003/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490003zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490003zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490003.swa"
+            },
+            {
+              "id": "4",
+              "name": "硕人",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490004/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490004/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490004/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490004/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490004zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490004zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490004.swa"
+            },
+            {
+              "id": "5",
+              "name": "谷风",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490005/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490005/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490005/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490005/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490005zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490005zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490005.swa"
+            },
+            {
+              "id": "6",
+              "name": "二子乘舟",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490006/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490006/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490006/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490006/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490006zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490006zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490006.swa"
+            },
+            {
+              "id": "7",
+              "name": "硕鼠",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490007/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490007/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490007/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490007/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490007zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490007zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490007.swa"
+            },
+            {
+              "id": "8",
+              "name": "桃夭",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490008/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490008/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490008/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490008/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490008zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490008zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490008.swa"
+            },
+            {
+              "id": "9",
+              "name": "击鼓",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490009/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490009/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490009/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490009/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490009zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490009zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490009.swa"
+            },
+            {
+              "id": "10",
+              "name": "蒹葭",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490010/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490010/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490010/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490010/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490010zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490010zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490010.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "11",
+              "name": "木瓜",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490011/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490011/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490011/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490011/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490011zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490011zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490011.swa"
+            },
+            {
+              "id": "12",
+              "name": "采薇",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490012/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490012/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490012/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490012/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490012zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490012zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490012.swa"
+            },
+            {
+              "id": "13",
+              "name": "北山",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490013/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490013/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490013/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490013/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490013zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490013zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490013.swa"
+            },
+            {
+              "id": "14",
+              "name": "苕之华",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490014/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490014/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490014/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490014/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490014zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490014zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490014.swa"
+            },
+            {
+              "id": "15",
+              "name": "鹿鸣",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490015/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490015/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490015/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490015/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490015zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490015zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490015.swa"
+            },
+            {
+              "id": "16",
+              "name": "沔水",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490016/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490016/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490016/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490016/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490016zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490016zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490016.swa"
+            },
+            {
+              "id": "17",
+              "name": "裳裳者华",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490017/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490017/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490017/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490017/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490017zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490017zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490017.swa"
+            },
+            {
+              "id": "18",
+              "name": "大田",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490018/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490018/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490018/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490018/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490018zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490018zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490018.swa"
+            },
+            {
+              "id": "19",
+              "name": "菀柳",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490019/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490019/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490019/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490019/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490019zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490019zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490019.swa"
+            },
+            {
+              "id": "20",
+              "name": "文王",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490020/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490020/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490020/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490020/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490020zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490020zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490020.swa"
+            }
+          ]
+        },
+        {
+          "kkk": [
+            {
+              "id": "21",
+              "name": "维清",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490021/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490021/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490021/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490021/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490021zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490021zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490021.swa"
+            },
+            {
+              "id": "22",
+              "name": "时迈",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490022/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490022/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490022/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490022/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490022zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490022zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490022.swa"
+            },
+            {
+              "id": "23",
+              "name": "载芟",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490023/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490023/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490023/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490023/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490023zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490023zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490023.swa"
+            },
+            {
+              "id": "24",
+              "name": "天作",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490024/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490024/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490024/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490024/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490024zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490024zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490024.swa"
+            },
+            {
+              "id": "25",
+              "name": "小毖",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490025/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490025/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490025/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490025/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490025zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490025zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490025.swa"
+            },
+            {
+              "id": "26",
+              "name": "丰年",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490026/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490026/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490026/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490026/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490026zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490026zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490026.swa"
+            },
+            {
+              "id": "27",
+              "name": "君子于役",
+              "article": "http://121.42.12.218/guoxue/gxjd/article/490027/article.html",
+              "explain": "http://121.42.12.218/guoxue/gxjd/article/490027/explain.html",
+              "recite": "http://121.42.12.218/guoxue/gxjd/article/490027/recite.html",
+              "translate": "http://121.42.12.218/guoxue/gxjd/article/490027/translate.html",
+              "works": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz1/490027zp.html",
+              "author": "http://121.42.12.218/guoxue/gxjd/kuozhan/kz2/490027zz.html",
+              "speech": "http://121.42.12.218/guoxue/gxjd/speech/490027.swa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
