@@ -34,7 +34,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="160dp"
                 android:layout_marginRight="140dp"
-                android:layout_marginTop="110dp"
+                android:layout_marginTop="90dp"
                 android:orientation="horizontal">
 
                 <ImageView
@@ -110,7 +110,7 @@
                 android:layout_below="@+id/line_up"
                 android:layout_marginLeft="160dp"
                 android:layout_marginRight="140dp"
-                android:layout_marginTop="60dp"
+                android:layout_marginTop="40dp"
                 android:visibility="visible">
 
 

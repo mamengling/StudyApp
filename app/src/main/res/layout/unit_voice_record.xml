@@ -51,10 +51,10 @@
             android:id="@+id/unit_voice_record_finish"
             android:layout_width="40dp"
             android:layout_height="35dp"
-            android:background="#00b31c"
+            android:background="#00000000"
             android:gravity="center"
             android:text="完成"
-            android:textColor="#ffffffff"
+            android:textColor="#000000"
             android:textSize="11sp" />
     </LinearLayout>
 </LinearLayout>

@@ -1,0 +1,114 @@
+{
+  "whzd": [
+    {
+      "mulu": "文化制度全景",
+      "detail": [
+        {
+          "id": "1",
+          "name": "古代礼制与官制",
+          "article": "http://121.42.12.218/guoxue/zgwh//whzdhtm/lzygz/nr/index.html"
+        },
+        {
+          "id": "2",
+          "name": "古代教育与科举",
+          "article": "http://121.42.12.218/guoxue/zgwh//whzdhtm/gdjy/nr/index.html"
+        },
+        {
+          "id": "3",
+          "name": "古代姓名和称谓",
+          "article": "http://121.42.12.218/guoxue/zgwh//whzdhtm/xmycw/index.html"
+        },
+        {
+          "id": "4",
+          "name": "古代天文和历法",
+          "article": "http://121.42.12.218/guoxue/zgwh//whzdhtm/twlf/index.html"
+        }
+      ]
+    },
+    {
+      "mulu": "中国文化全景",
+      "detail": [
+        {
+          "id": "1",
+          "name": "第一章：先秦文学",
+          "article": "http://121.42.12.218/guoxue/zgwh//gdwhyshtm/xqwx/index.html"
+        },
+        {
+          "id": "2",
+          "name": "第二章：秦汉文学",
+          "article": "http://121.42.12.218/guoxue/zgwh//gdwhyshtm/qhwx/index.html"
+        },
+        {
+          "id": "3",
+          "name": "第三章：魏晋南北朝文学",
+          "article": "http://121.42.12.218/guoxue/zgwh//gdwhyshtm/wjnbc/index.html"
+        },
+        {
+          "id": "4",
+          "name": "第四章：唐 五代文学",
+          "article": "http://121.42.12.218/guoxue/zgwh//gdwhyshtm/twdwx/index.html"
+        },
+        {
+          "id": "5",
+          "name": "第五章：宋代文学",
+          "article": "http://121.42.12.218/guoxue/zgwh//gdwhyshtm/sdwx/index.html"
+        },
+        {
+          "id": "6",
+          "name": "第六章：元代文学",
+          "article": "http://121.42.12.218/guoxue/zgwh//gdwhyshtm/ydwx/index.html"
+        },
+        {
+          "id": "7",
+          "name": "第七章：明代文学",
+          "article": "http://121.42.12.218/guoxue/zgwh//gdwhyshtm/mdwx/index.html"
+        },
+        {
+          "id": "8",
+          "name": "第八章：清代文学",
+          "article": "http://121.42.12.218/guoxue/zgwh//gdwhyshtm/qdwx/index.html"
+        }
+      ]
+    },
+    {
+      "mulu": "日常生活全景",
+      "detail": [
+        {
+          "id": "1",
+          "name": "古代服饰",
+          "article": "http://121.42.12.218/guoxue/zgwh//rcshhtm/gdfs/index.html"
+        },
+        {
+          "id": "2",
+          "name": "古代饮食",
+          "article": "http://121.42.12.218/guoxue/zgwh//rcshhtm/gdys/index.html"
+        },
+        {
+          "id": "3",
+          "name": "古代交通",
+          "article": "http://121.42.12.218/guoxue/zgwh//rcshhtm/gdjt/index.html"
+        },
+        {
+          "id": "4",
+          "name": "古代居住与建筑",
+          "article": "http://121.42.12.218/guoxue/zgwh//rcshhtm/gdjzyjz/index.html"
+        },
+        {
+          "id": "5",
+          "name": "古代休闲娱乐",
+          "article": "http://121.42.12.218/guoxue/zgwh//rcshhtm/gdxx/index.html"
+        }
+      ]
+    },
+    {
+      "mulu": "中国历史全景",
+      "detail": [
+        {
+          "id": "1",
+          "name": "中国历史全景",
+          "article": "http://121.42.12.218/guoxue/zgwh//lschhtm/nr/index.html"
+        }
+      ]
+    }
+  ]
+}
