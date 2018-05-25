@@ -29,9 +29,8 @@ public class WYMPActivityPresenter {
             mWYMPActivityView.excuteSuccessCallBack(bean);
         } catch (Exception e) {
             CallBackVo mCallBackVo = new CallBackVo();
-            mCallBackVo.setCode(404);
-            mCallBackVo.setMessage(e.getMessage());
-            mCallBackVo.setData(null);
+            mCallBackVo.setErrcode(404);
+            mCallBackVo.setErrmsg(e.getMessage());
             mWYMPActivityView.excuteFailedCallBack(mCallBackVo);
         }
 

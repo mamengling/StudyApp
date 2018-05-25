@@ -2,6 +2,7 @@ package com.mml.studyapp.ui;
 
 import android.Manifest;
 import android.annotation.TargetApi;
+import android.content.Intent;
 import android.view.View;
 
 import com.mml.studyapp.R;
@@ -40,6 +41,7 @@ public class MainActivity extends BaseCompatActivity implements View.OnClickList
 
     @Override
     protected void onCreateViewContent(View view) {
+        view.findViewById(R.id.tv_return).setOnClickListener(this);
         view.findViewById(R.id.iv_hzzy).setOnClickListener(this);
         view.findViewById(R.id.iv_tssc).setOnClickListener(this);
         view.findViewById(R.id.iv_gxjd).setOnClickListener(this);
@@ -83,6 +85,13 @@ public class MainActivity extends BaseCompatActivity implements View.OnClickList
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
+            case R.id.tv_return:
+                Intent intent = new Intent(Intent.ACTION_MAIN);
+                intent.addCategory(Intent.CATEGORY_HOME);
+                intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+                startActivity(intent);
+                android.os.Process.killProcess(android.os.Process.myPid());
+                break;
             case R.id.iv_hzzy:
                 ActivityAnim.intentActivity(this, HZZYActivity.class, null);
                 break;

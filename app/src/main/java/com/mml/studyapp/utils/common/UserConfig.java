@@ -65,6 +65,8 @@ public class UserConfig {
      */
     public static final String USER_STATUS = "status";
 
+    public static final String USER_DEVICE_IMEI_CODE = "USER_DEVICE_IMEI_CODE";
+
     //接口请求公钥
     public final static String PUBLICKEY = "MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKDJ075OhcQnP5xqxcarfJK/gHImLMfd9L8ry7Ug9hg4dRLZEQmrJjOu83/h/ZjkVbaeSdyz2Gx7VQ3s9Epqec0CAwEAAQ==";
     public final static String PRIVATEKEY = "MIIBVQIBADANBgkqhkiG9w0BAQEFAASCAT8wggE7AgEAAkEAoMnTvk6FxCc/nGrFxqt8kr+AciYsx930vyvLtSD2GDh1EtkRCasmM67zf+H9mORVtp5J3LPYbHtVDez0Smp5zQIDAQABAkAEqpbYmRLMxI7WDUs8HtH4uFIT/gOisVBfE/hPg2tg/IaXbql6Jos+OK+db3ec0Kg3uFUpHuENox7Vsru2TG1JAiEA5/4mZzz4J/Yur2daZy5eUPHfugqgTR0+LdjIDEKN2fcCIQCxbVyrTi1JgrFH2R/O6HfhuRhaU0hINi5IvwcbCbo5WwIhAI9bm/ubz3VSSZMWeOTd4GaAsNHUEy7T7UKDfUsmLWYNAiEAkxeTSAGb0eGjj2kV0bcwC9Yjtl5tAlDItk6IWYYK+RkCIA9MOAleiyDZiZVTgXslfRGw99m2HhezE9H4IUj5++e3";

@@ -1,5 +1,6 @@
 package com.mml.studyapp.ui;
 
+import android.content.Intent;
 import android.view.View;
 
 import com.mml.studyapp.R;
@@ -88,14 +89,34 @@ public class ZGWHRcshMuluActivity extends BaseCompatActivity implements View.OnC
                 ActivityAnim.endActivity(this);
                 break;
             case R.id.tv_gdfs://古代服饰
+                Intent intent1 = new Intent(this, ZGWHInfoActivity.class);
+                intent1.putExtra("muluinfo", detail.get(0));
+                intent1.putExtra("mulu", detail.get(0).getName());
+                ActivityAnim.intentActivity(this, intent1);
                 break;
             case R.id.tv_gdys://古代饮食
+                Intent intent2 = new Intent(this, ZGWHInfoActivity.class);
+                intent2.putExtra("muluinfo", detail.get(1));
+                intent2.putExtra("mulu", detail.get(1).getName());
+                ActivityAnim.intentActivity(this, intent2);
                 break;
             case R.id.tv_gdjt://古代交通
+                Intent intent3 = new Intent(this, ZGWHInfoActivity.class);
+                intent3.putExtra("muluinfo", detail.get(2));
+                intent3.putExtra("mulu", detail.get(2).getName());
+                ActivityAnim.intentActivity(this, intent3);
                 break;
             case R.id.tv_gdjzyjz://古代居住与建筑
+                Intent intent4 = new Intent(this, ZGWHInfoActivity.class);
+                intent4.putExtra("muluinfo", detail.get(3));
+                intent4.putExtra("mulu", detail.get(3).getName());
+                ActivityAnim.intentActivity(this, intent4);
                 break;
             case R.id.tv_gdxxyl://古代\n休闲娱乐
+                Intent intent5 = new Intent(this, ZGWHInfoActivity.class);
+                intent5.putExtra("muluinfo", detail.get(4));
+                intent5.putExtra("mulu", detail.get(4).getName());
+                ActivityAnim.intentActivity(this, intent5);
                 break;
         }
     }

@@ -27,7 +27,7 @@
         tools:replace="android:icon, android:label,android:theme">
 
         <activity
-            android:name=".ui.MainActivity"
+            android:name=".ui.StartActivity"
             android:screenOrientation="landscape">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -145,6 +145,12 @@
             android:windowSoftInputMode="stateHidden" />
         <activity
             android:name=".ui.GXJDMuluActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name=".ui.MainActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/app_name"
             android:screenOrientation="landscape"

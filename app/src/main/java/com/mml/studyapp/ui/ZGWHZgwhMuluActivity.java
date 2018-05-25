@@ -1,5 +1,6 @@
 package com.mml.studyapp.ui;
 
+import android.content.Intent;
 import android.view.View;
 
 import com.mml.studyapp.R;
@@ -91,20 +92,52 @@ public class ZGWHZgwhMuluActivity extends BaseCompatActivity implements View.OnC
                 ActivityAnim.endActivity(this);
                 break;
             case R.id.tv_dyz:
+                Intent intent1 = new Intent(this, ZGWHInfoActivity.class);
+                intent1.putExtra("muluinfo", detail.get(0));
+                intent1.putExtra("mulu", detail.get(0).getName());
+                ActivityAnim.intentActivity(this, intent1);
                 break;
             case R.id.tv_dez:
+                Intent intent2 = new Intent(this, ZGWHInfoActivity.class);
+                intent2.putExtra("muluinfo", detail.get(1));
+                intent2.putExtra("mulu", detail.get(1).getName());
+                ActivityAnim.intentActivity(this, intent2);
                 break;
             case R.id.tv_dsz:
+                Intent intent3 = new Intent(this, ZGWHInfoActivity.class);
+                intent3.putExtra("muluinfo", detail.get(2));
+                intent3.putExtra("mulu", detail.get(2).getName());
+                ActivityAnim.intentActivity(this, intent3);
                 break;
             case R.id.tv_dszt:
+                Intent intent4 = new Intent(this, ZGWHInfoActivity.class);
+                intent4.putExtra("muluinfo", detail.get(3));
+                intent4.putExtra("mulu", detail.get(3).getName());
+                ActivityAnim.intentActivity(this, intent4);
                 break;
             case R.id.tv_dwz:
+                Intent intent5 = new Intent(this, ZGWHInfoActivity.class);
+                intent5.putExtra("muluinfo", detail.get(4));
+                intent5.putExtra("mulu", detail.get(4).getName());
+                ActivityAnim.intentActivity(this, intent5);
                 break;
             case R.id.tv_dlz:
+                Intent intent6 = new Intent(this, ZGWHInfoActivity.class);
+                intent6.putExtra("muluinfo", detail.get(5));
+                intent6.putExtra("mulu", detail.get(5).getName());
+                ActivityAnim.intentActivity(this, intent6);
                 break;
             case R.id.tv_dqz:
+                Intent intent7 = new Intent(this, ZGWHInfoActivity.class);
+                intent7.putExtra("muluinfo", detail.get(6));
+                intent7.putExtra("mulu", detail.get(6).getName());
+                ActivityAnim.intentActivity(this, intent7);
                 break;
             case R.id.tv_dbz:
+                Intent intent8 = new Intent(this, ZGWHInfoActivity.class);
+                intent8.putExtra("muluinfo", detail.get(7));
+                intent8.putExtra("mulu", detail.get(7).getName());
+                ActivityAnim.intentActivity(this, intent8);
                 break;
         }
     }
