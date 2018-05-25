@@ -2,6 +2,8 @@ package com.mml.studyapp.ui;
 
 import android.annotation.TargetApi;
 import android.content.Intent;
+import android.os.Build;
+import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v7.widget.AppCompatEditText;
 import android.text.TextUtils;
@@ -19,6 +21,7 @@ import com.mml.studyapp.utils.common.AppMethod;
 import com.mml.studyapp.utils.common.Constants;
 import com.mml.studyapp.utils.common.SharePreferenceUtil;
 import com.mml.studyapp.utils.common.UserConfig;
+import com.mml.studyapp.utils.common.log.LogUtil;
 import com.mml.studyapp.utils.dialogutils.MDialog;
 import com.mml.studyapp.utils.runtimepermissions.PermissionsManager;
 import com.mml.studyapp.utils.runtimepermissions.PermissionsResultAction;
@@ -81,8 +84,14 @@ public class StartActivity extends BaseCompatActivity implements View.OnClickLis
      */
     @Override
     protected void setListener() {
-        requestPermissions();
-        if (SharePreferenceUtil.getBoolean(StartActivity.this, UserConfig.USER_DEVICE_IMEI_CODE, false)){
+        if (Build.VERSION.SDK_INT >= 23) {
+            LogUtil.i("PUTTAG","========================1");
+            requestPermissions();
+        }else {
+            tv_device_number.setText(AppMethod.getDeviceIMEI(StartActivity.this));
+            LogUtil.i("PUTTAG","========================2");
+        }
+        if (SharePreferenceUtil.getBoolean(StartActivity.this, UserConfig.USER_DEVICE_IMEI_CODE, false)) {
             ActivityAnim.intentActivity(this, MainActivity.class, null);
             finish();
         }
@@ -170,7 +179,7 @@ public class StartActivity extends BaseCompatActivity implements View.OnClickLis
     @Override
     public RequestParams getParamenters() {
         RequestParams params = AppMethod.getMapParams();
-        params.put("dnumber",inputNumber);
+        params.put("dnumber", inputNumber);
         params.put("sid", inputCode);
         return params;
     }

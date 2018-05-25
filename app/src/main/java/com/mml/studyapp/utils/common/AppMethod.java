@@ -115,30 +115,17 @@ public class AppMethod {
      * @return
      */
     public static String getDeviceIMEI(final Context context) {
-        if (TextUtils.isEmpty(SharePreferenceUtil.getString(context, UserConfig.USER_DEVICE_IMEI, ""))) {
-            try {
-                TelephonyManager mTm = (TelephonyManager) context.getSystemService(context.TELEPHONY_SERVICE);
-                if (ActivityCompat.checkSelfPermission(context, Manifest.permission.READ_PHONE_STATE) != PackageManager.PERMISSION_GRANTED) {
-                    // TODO: Consider calling
-                    //    ActivityCompat#requestPermissions
-                    // here to request the missing permissions, and then overriding
-                    //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
-                    //                                          int[] grantResults)
-                    // to handle the case where the user grants the permission. See the documentation
-                    // for ActivityCompat#requestPermissions for more details.
-
-                    return null;
-                }
-                LogUtil.i("USER_DEVICE_IMEI 2", mTm.getDeviceId());
-
+        try {
+            TelephonyManager mTm = (TelephonyManager) context.getSystemService(context.TELEPHONY_SERVICE);
+            if (ActivityCompat.checkSelfPermission(context, Manifest.permission.READ_PHONE_STATE) != PackageManager.PERMISSION_GRANTED) {
                 return mTm.getDeviceId();
-            } catch (Exception e) {
-                LogUtil.i("USER_DEVICE_IMEI 2", e.getMessage());
-                return null;
             }
-        } else {
-            LogUtil.i("USER_DEVICE_IMEI 1", SharePreferenceUtil.getString(context, UserConfig.USER_DEVICE_IMEI, ""));
-            return SharePreferenceUtil.getString(context, UserConfig.USER_DEVICE_IMEI, "");
+            LogUtil.i("USER_DEVICE_IMEI 2", mTm.getDeviceId());
+
+            return mTm.getDeviceId();
+        } catch (Exception e) {
+            LogUtil.i("USER_DEVICE_IMEI 2", e.getMessage());
+            return null;
         }
     }
 
@@ -158,7 +145,7 @@ public class AppMethod {
             //                                          int[] grantResults)
             // to handle the case where the user grants the permission. See the documentation
             // for ActivityCompat#requestPermissions for more details.
-            return  null;
+            return null;
         }
         //获取用户唯一标示
         return mTm.getDeviceId();
