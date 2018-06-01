@@ -8,6 +8,7 @@ import android.content.res.AssetManager;
 import android.graphics.Bitmap;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
+import android.net.wifi.WifiManager;
 import android.support.v4.app.ActivityCompat;
 import android.telephony.TelephonyManager;
 import android.text.TextUtils;
@@ -128,6 +129,26 @@ public class AppMethod {
             return null;
         }
     }
+    /**
+     * 获取手机的序列号imei
+     *
+     * @param context
+     * @return
+     */
+    public static String getDeviceID(final Context context) {
+        try {
+            TelephonyManager mTm = (TelephonyManager) context.getSystemService(context.TELEPHONY_SERVICE);
+            if (ActivityCompat.checkSelfPermission(context, Manifest.permission.READ_PHONE_STATE) != PackageManager.PERMISSION_GRANTED) {
+                return mTm.getDeviceId();
+            }
+            LogUtil.i("USER_DEVICE_IMEI 2", mTm.getDeviceId());
+
+            return mTm.getDeviceId();
+        } catch (Exception e) {
+            LogUtil.i("USER_DEVICE_IMEI 2", e.getMessage());
+            return null;
+        }
+    }
 
     /**
      * 获取手机的序列号imei
@@ -138,17 +159,22 @@ public class AppMethod {
     public static String getDeviceIMEIOnley(Context context) {
         TelephonyManager mTm = (TelephonyManager) context.getSystemService(context.TELEPHONY_SERVICE);
         if (ActivityCompat.checkSelfPermission(context, Manifest.permission.READ_PHONE_STATE) != PackageManager.PERMISSION_GRANTED) {
-            // TODO: Consider calling
-            //    ActivityCompat#requestPermissions
-            // here to request the missing permissions, and then overriding
-            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
-            //                                          int[] grantResults)
-            // to handle the case where the user grants the permission. See the documentation
-            // for ActivityCompat#requestPermissions for more details.
             return null;
         }
         //获取用户唯一标示
         return mTm.getDeviceId();
+    }
+    /**
+     * 获取手机的序列号imei
+     *
+     * @param context
+     * @return
+     */
+    public static String getDeviceMAC(Context context) {
+        WifiManager wm = (WifiManager)context.getSystemService(Context.WIFI_SERVICE);
+        String m_szWLANMAC = wm.getConnectionInfo().getMacAddress();
+        //获取用户唯一标示
+        return m_szWLANMAC;
     }
 
 

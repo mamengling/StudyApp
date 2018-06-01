@@ -19,6 +19,7 @@ import com.mml.studyapp.iactivityview.StartActivityView;
 import com.mml.studyapp.presenter.StartActivityPresenter;
 import com.mml.studyapp.utils.common.AppMethod;
 import com.mml.studyapp.utils.common.Constants;
+import com.mml.studyapp.utils.common.MD5Utils;
 import com.mml.studyapp.utils.common.SharePreferenceUtil;
 import com.mml.studyapp.utils.common.UserConfig;
 import com.mml.studyapp.utils.common.log.LogUtil;
@@ -85,11 +86,11 @@ public class StartActivity extends BaseCompatActivity implements View.OnClickLis
     @Override
     protected void setListener() {
         if (Build.VERSION.SDK_INT >= 23) {
-            LogUtil.i("PUTTAG","========================1");
+            LogUtil.i("PUTTAG", "========================1");
             requestPermissions();
-        }else {
-            tv_device_number.setText(AppMethod.getDeviceIMEI(StartActivity.this));
-            LogUtil.i("PUTTAG","========================2");
+        } else {
+            tv_device_number.setText(MD5Utils.Md5(AppMethod.getDeviceMAC(StartActivity.this)));
+            LogUtil.i("PUTTAG", "========================2");
         }
         if (SharePreferenceUtil.getBoolean(StartActivity.this, UserConfig.USER_DEVICE_IMEI_CODE, false)) {
             ActivityAnim.intentActivity(this, MainActivity.class, null);
@@ -154,7 +155,7 @@ public class StartActivity extends BaseCompatActivity implements View.OnClickLis
         PermissionsManager.getInstance().requestAllManifestPermissionsIfNecessary(this, new PermissionsResultAction() {
             @Override
             public void onGranted() {
-                tv_device_number.setText(AppMethod.getDeviceIMEI(StartActivity.this));
+                tv_device_number.setText(MD5Utils.Md5(AppMethod.getDeviceMAC(StartActivity.this)));
             }
 
             @Override
@@ -168,7 +169,7 @@ public class StartActivity extends BaseCompatActivity implements View.OnClickLis
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions,
                                            @NonNull int[] grantResults) {
         PermissionsManager.getInstance().notifyPermissionsChange(permissions, grantResults);
-        tv_device_number.setText(AppMethod.getDeviceIMEI(StartActivity.this));
+        tv_device_number.setText(MD5Utils.Md5(AppMethod.getDeviceMAC(StartActivity.this)));
     }
 
     /**
