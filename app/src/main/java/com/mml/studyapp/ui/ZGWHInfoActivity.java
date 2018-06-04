@@ -1,6 +1,4 @@
 package com.mml.studyapp.ui;
-
-import android.media.MediaPlayer;
 import android.os.Build;
 import android.view.View;
 import android.webkit.WebChromeClient;
@@ -11,9 +9,6 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
-
-import com.maxi.audiotools.IMAudioManager;
 import com.mml.studyapp.R;
 import com.mml.studyapp.base.BaseCompatActivity;
 import com.mml.studyapp.bean.ZGWHBean;
@@ -21,8 +16,6 @@ import com.mml.studyapp.utils.common.VoiceCallBack;
 import com.mml.studyapp.utils.common.VoiceManager;
 import com.mml.studyapp.utils.widget.ActivityAnim;
 import com.mml.studyapp.utils.widget.TitleBar;
-
-import java.util.ArrayList;
 
 /**
  * Created by MLing on 2018/5/23 0023. 中国历史全景
@@ -124,7 +117,7 @@ public class ZGWHInfoActivity extends BaseCompatActivity implements View.OnClick
         seting.setAllowFileAccess(true);
         seting.setJavaScriptCanOpenWindowsAutomatically(true);
         seting.setDefaultTextEncodingName("utf-8");//设置字符编码
-        seting.setSupportZoom(true); // 支持缩放
+        seting.setSupportZoom(false); // 支持缩放
         seting.setBuiltInZoomControls(true); // 启用内置缩放装置
         seting.setDisplayZoomControls(true);
         seting.setJavaScriptEnabled(true);//设置webview支持javascript脚本

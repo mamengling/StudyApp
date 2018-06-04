@@ -2,7 +2,6 @@
     <dimen name="fab_margin">16dp</dimen>
 
 
-
     <!-- textsize start -->
     <dimen name="textsize_30">60sp</dimen>
     <dimen name="textsize_24">48sp</dimen>
@@ -22,4 +21,34 @@
     <dimen name="textsize_3">6sp</dimen>
     <dimen name="textsize_2">4sp</dimen>
     <dimen name="textsize_1">2sp</dimen>
+
+
+    <dimen name="title_width_l">190dp</dimen>
+    <dimen name="title_height_l">80dp</dimen>
+    <dimen name="title_margin_l">10dp</dimen>
+    <dimen name="title_margin_r">10dp</dimen>
+    <dimen name="title_margin_t">20dp</dimen>
+    <dimen name="title_width_r">200dp</dimen>
+    <dimen name="title_height_r">38dp</dimen>
+
+
+    <dimen name="jdmz_index_width_height_logo">220dp</dimen>
+    <dimen name="jdmz_index_margi_l">160dp</dimen>
+
+    <dimen name="gxjd_yuandian_width_height_logo">180dp</dimen>
+    <dimen name="gxjd_yuandian_margi_l">160dp</dimen>
+
+    <dimen name="gxjd_index_layout_width">400dp</dimen>
+    <dimen name="gxjd_index_layout_margin_l">180dp</dimen>
+    <dimen name="gxjd_index_layout_margin_r">180dp</dimen>
+
+
+    <dimen name="gxjd_index_width">450dp</dimen>
+    <dimen name="gxjd_index_height">161dp</dimen>
+
+
+    <dimen name="gxjd_index_width_d">184dp</dimen>
+    <dimen name="gxjd_index_height_d">90dp</dimen>
+    <dimen name="gxjd_index_margin_r">100dp</dimen>
+
 </resources>

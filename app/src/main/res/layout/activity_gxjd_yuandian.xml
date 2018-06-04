@@ -50,8 +50,8 @@
 
             <TextView
                 android:id="@+id/tv_yijing"
-                android:layout_width="180dp"
-                android:layout_height="180dp"
+                android:layout_width="@dimen/gxjd_yuandian_width_height_logo"
+                android:layout_height="@dimen/gxjd_yuandian_width_height_logo"
                 android:layout_alignParentLeft="true"
                 android:layout_centerVertical="true"
                 android:background="@mipmap/wymp_circle_icon_bg"
@@ -64,8 +64,8 @@
 
             <TextView
                 android:id="@+id/tv_lunyu"
-                android:layout_width="180dp"
-                android:layout_height="180dp"
+                android:layout_width="@dimen/gxjd_yuandian_width_height_logo"
+                android:layout_height="@dimen/gxjd_yuandian_width_height_logo"
                 android:layout_alignParentLeft="true"
                 android:layout_centerVertical="true"
                 android:background="@mipmap/wymp_circle_icon_bg"
@@ -79,8 +79,8 @@
 
             <TextView
                 android:id="@+id/tv_mengzi"
-                android:layout_width="180dp"
-                android:layout_height="180dp"
+                android:layout_width="@dimen/gxjd_yuandian_width_height_logo"
+                android:layout_height="@dimen/gxjd_yuandian_width_height_logo"
                 android:layout_alignParentLeft="true"
                 android:layout_centerVertical="true"
                 android:background="@mipmap/wymp_circle_icon_bg"
@@ -94,8 +94,8 @@
 
             <TextView
                 android:id="@+id/tv_daxue"
-                android:layout_width="180dp"
-                android:layout_height="180dp"
+                android:layout_width="@dimen/gxjd_yuandian_width_height_logo"
+                android:layout_height="@dimen/gxjd_yuandian_width_height_logo"
                 android:layout_alignParentLeft="true"
                 android:layout_centerVertical="true"
                 android:background="@mipmap/wymp_circle_icon_bg"
@@ -117,8 +117,8 @@
 
             <TextView
                 android:id="@+id/tv_zhongyong"
-                android:layout_width="180dp"
-                android:layout_height="180dp"
+                android:layout_width="@dimen/gxjd_yuandian_width_height_logo"
+                android:layout_height="@dimen/gxjd_yuandian_width_height_logo"
                 android:layout_alignParentLeft="true"
                 android:layout_centerVertical="true"
                 android:background="@mipmap/wymp_circle_icon_bg"
@@ -131,8 +131,8 @@
 
             <TextView
                 android:id="@+id/tv_laozi"
-                android:layout_width="180dp"
-                android:layout_height="180dp"
+                android:layout_width="@dimen/gxjd_yuandian_width_height_logo"
+                android:layout_height="@dimen/gxjd_yuandian_width_height_logo"
                 android:layout_alignParentLeft="true"
                 android:layout_centerVertical="true"
                 android:background="@mipmap/wymp_circle_icon_bg"
@@ -146,8 +146,8 @@
 
             <TextView
                 android:id="@+id/tv_zhuangzi"
-                android:layout_width="180dp"
-                android:layout_height="180dp"
+                android:layout_width="@dimen/gxjd_yuandian_width_height_logo"
+                android:layout_height="@dimen/gxjd_yuandian_width_height_logo"
                 android:layout_alignParentLeft="true"
                 android:layout_centerVertical="true"
                 android:background="@mipmap/wymp_circle_icon_bg"
@@ -161,8 +161,8 @@
 
             <TextView
                 android:id="@+id/tv_sunzibingfa"
-                android:layout_width="180dp"
-                android:layout_height="180dp"
+                android:layout_width="@dimen/gxjd_yuandian_width_height_logo"
+                android:layout_height="@dimen/gxjd_yuandian_width_height_logo"
                 android:layout_alignParentLeft="true"
                 android:layout_centerVertical="true"
                 android:background="@mipmap/wymp_circle_icon_bg"
@@ -176,8 +176,8 @@
 
             <TextView
                 android:id="@+id/tv_shijing"
-                android:layout_width="180dp"
-                android:layout_height="180dp"
+                android:layout_width="@dimen/gxjd_yuandian_width_height_logo"
+                android:layout_height="@dimen/gxjd_yuandian_width_height_logo"
                 android:layout_alignParentLeft="true"
                 android:layout_centerVertical="true"
                 android:background="@mipmap/wymp_circle_icon_bg"

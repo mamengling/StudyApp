@@ -127,7 +127,7 @@ public class GXJDInfoActivity extends BaseCompatActivity implements View.OnClick
         seting.setAllowFileAccess(true);
         seting.setJavaScriptCanOpenWindowsAutomatically(true);
         seting.setDefaultTextEncodingName("utf-8");//设置字符编码
-        seting.setSupportZoom(true); // 支持缩放
+        seting.setSupportZoom(false); // 支持缩放
         seting.setBuiltInZoomControls(true); // 启用内置缩放装置
         seting.setDisplayZoomControls(true);
         seting.setJavaScriptEnabled(true);//设置webview支持javascript脚本

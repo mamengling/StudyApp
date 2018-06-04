@@ -13,8 +13,8 @@
 
     <ImageView
         android:id="@+id/image"
-        android:layout_width="450dp"
-        android:layout_height="161dp"
+        android:layout_width="@dimen/gxjd_index_width"
+        android:layout_height="@dimen/gxjd_index_height"
         android:layout_above="@+id/tv_return"
         android:layout_marginLeft="30dp"
         android:scaleType="centerInside"
@@ -22,29 +22,29 @@
 
     <ImageView
         android:id="@+id/image_up"
-        android:layout_width="184dp"
-        android:layout_height="90dp"
+        android:layout_width="@dimen/gxjd_index_width_d"
+        android:layout_height="@dimen/gxjd_index_height_d"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/title"
-        android:layout_marginRight="100dp"
+        android:layout_marginRight="@dimen/gxjd_index_margin_r"
         android:scaleType="centerInside"
         android:src="@mipmap/gxjd_bg_up_index" />
 
     <LinearLayout
         android:id="@+id/largeLabel"
         android:layout_width="match_parent"
-        android:layout_height="400dp"
+        android:layout_height="@dimen/gxjd_index_layout_width"
         android:layout_above="@+id/image"
         android:layout_below="@+id/image_up"
-        android:layout_marginLeft="180dp"
-        android:layout_marginRight="180dp"
+        android:layout_marginLeft="@dimen/gxjd_index_layout_margin_l"
+        android:layout_marginRight="@dimen/gxjd_index_layout_margin_r"
         android:gravity="center"
         android:orientation="horizontal">
 
         <LinearLayout
             android:id="@+id/line_qimeng"
-            android:layout_width="260dp"
-            android:layout_height="260dp"
+            android:layout_width="@dimen/jdmz_index_width_height_logo"
+            android:layout_height="@dimen/jdmz_index_width_height_logo"
             android:background="@mipmap/gxjd_qimeng_read"
             android:clickable="true"
             android:foreground="?android:attr/selectableItemBackground"
@@ -63,9 +63,9 @@
 
         <LinearLayout
             android:id="@+id/line_sixiang"
-            android:layout_width="260dp"
-            android:layout_height="260dp"
-            android:layout_marginLeft="100dp"
+            android:layout_width="@dimen/jdmz_index_width_height_logo"
+            android:layout_height="@dimen/jdmz_index_width_height_logo"
+            android:layout_marginLeft="@dimen/jdmz_index_margi_l"
             android:background="@mipmap/gxjd_sixiang_yuandian"
             android:clickable="true"
             android:foreground="?android:attr/selectableItemBackground"

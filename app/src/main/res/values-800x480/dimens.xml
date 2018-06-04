@@ -1,0 +1,41 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+    <!-- textsize start -->
+    <dimen name="textsize_30">60sp</dimen>
+    <dimen name="textsize_24">48sp</dimen>
+    <dimen name="textsize_20">40sp</dimen>
+    <dimen name="textsize_15">30sp</dimen>
+    <dimen name="textsize_14">28sp</dimen>
+    <dimen name="textsize_13">26sp</dimen>
+    <dimen name="textsize_12">24sp</dimen>
+    <dimen name="textsize_11">22sp</dimen>
+    <dimen name="textsize_10">20sp</dimen>
+    <dimen name="textsize_9">18sp</dimen>
+    <dimen name="textsize_8">16sp</dimen>
+    <dimen name="textsize_7">14sp</dimen>
+    <dimen name="textsize_6">12sp</dimen>
+    <dimen name="textsize_5">10sp</dimen>
+    <dimen name="textsize_4">8sp</dimen>
+    <dimen name="textsize_3">6sp</dimen>
+    <dimen name="textsize_2">4sp</dimen>
+    <dimen name="textsize_1">2sp</dimen>
+
+
+    <dimen name="title_width_l">59</dimen>
+    <dimen name="title_height_l">27</dimen>
+    <dimen name="title_margin_l">10dp</dimen>
+    <dimen name="title_margin_r">10dp</dimen>
+    <dimen name="title_margin_t">20dp</dimen>
+    <dimen name="title_width_r">50dp</dimen>
+    <dimen name="title_height_r">10dp</dimen>
+
+
+    <dimen name="jdmz_index_width_height_logo">68dp</dimen>
+    <dimen name="jdmz_index_margi_l">50dp</dimen>
+
+    <dimen name="gxjd_yuandian_width_height_logo">56dp</dimen>
+    <dimen name="gxjd_yuandian_margi_l">50</dimen>
+
+</resources>
