@@ -13,31 +13,31 @@
 
     <ImageView
         android:id="@+id/image"
-        android:layout_width="450dp"
-        android:layout_height="161dp"
+        android:layout_width="@dimen/gxjd_index_width"
+        android:layout_height="@dimen/gxjd_index_height"
         android:layout_above="@+id/tv_return"
-        android:layout_marginLeft="30dp"
+        android:layout_marginLeft="@dimen/gxjd_index_margin_l"
         android:scaleType="centerInside"
         android:src="@mipmap/gxjd_bg_down_index" />
 
     <ImageView
         android:id="@+id/image_up"
-        android:layout_width="184dp"
-        android:layout_height="90dp"
+        android:layout_width="@dimen/gxjd_index_width_d"
+        android:layout_height="@dimen/gxjd_index_height_d"
         android:layout_alignParentRight="true"
         android:layout_below="@+id/title"
-        android:layout_marginRight="100dp"
+        android:layout_marginRight="@dimen/gxjd_index_margin_r"
         android:scaleType="centerInside"
         android:src="@mipmap/gxjd_bg_up_index" />
 
     <LinearLayout
         android:id="@+id/largeLabel"
         android:layout_width="match_parent"
-        android:layout_height="400dp"
+        android:layout_height="@dimen/gxjd_index_layout_width"
         android:layout_above="@+id/image"
         android:layout_below="@+id/image_up"
-        android:layout_marginLeft="180dp"
-        android:layout_marginRight="180dp"
+        android:layout_marginLeft="@dimen/gxjd_index_layout_margin_l"
+        android:layout_marginRight="@dimen/gxjd_index_layout_margin_r"
         android:gravity="center"
         android:orientation="vertical">
 
@@ -60,7 +60,7 @@
                 android:gravity="center"
                 android:text="易经"
                 android:textColor="@color/gplus_color_6"
-                android:textSize="@dimen/textsize_10" />
+                android:textSize="@dimen/title_text_yuandian" />
 
             <TextView
                 android:id="@+id/tv_lunyu"
@@ -74,7 +74,7 @@
                 android:gravity="center"
                 android:text="论语"
                 android:textColor="@color/gplus_color_6"
-                android:textSize="@dimen/textsize_10" />
+                android:textSize="@dimen/title_text_yuandian" />
 
 
             <TextView
@@ -89,7 +89,7 @@
                 android:gravity="center"
                 android:text="孟子"
                 android:textColor="@color/gplus_color_6"
-                android:textSize="@dimen/textsize_10" />
+                android:textSize="@dimen/title_text_yuandian" />
 
 
             <TextView
@@ -104,7 +104,7 @@
                 android:gravity="center"
                 android:text="大学"
                 android:textColor="@color/gplus_color_6"
-                android:textSize="@dimen/textsize_10" />
+                android:textSize="@dimen/title_text_yuandian" />
         </LinearLayout>
 
 
@@ -127,7 +127,7 @@
                 android:gravity="center"
                 android:text="中庸"
                 android:textColor="@color/gplus_color_6"
-                android:textSize="@dimen/textsize_10" />
+                android:textSize="@dimen/title_text_yuandian" />
 
             <TextView
                 android:id="@+id/tv_laozi"
@@ -141,7 +141,7 @@
                 android:gravity="center"
                 android:text="老子"
                 android:textColor="@color/gplus_color_6"
-                android:textSize="@dimen/textsize_10" />
+                android:textSize="@dimen/title_text_yuandian" />
 
 
             <TextView
@@ -156,7 +156,7 @@
                 android:gravity="center"
                 android:text="庄子"
                 android:textColor="@color/gplus_color_6"
-                android:textSize="@dimen/textsize_10" />
+                android:textSize="@dimen/title_text_yuandian" />
 
 
             <TextView
@@ -171,7 +171,7 @@
                 android:gravity="center"
                 android:text="孙子兵法"
                 android:textColor="@color/gplus_color_6"
-                android:textSize="@dimen/textsize_10" />
+                android:textSize="@dimen/title_text_yuandian" />
 
 
             <TextView
@@ -186,7 +186,7 @@
                 android:gravity="center"
                 android:text="诗经"
                 android:textColor="@color/gplus_color_6"
-                android:textSize="@dimen/textsize_10" />
+                android:textSize="@dimen/title_text_yuandian" />
         </LinearLayout>
     </LinearLayout>
 
@@ -203,7 +203,7 @@
         android:foreground="?android:attr/selectableItemBackground"
         android:padding="10dp"
         android:text="搜索"
-        android:textSize="25sp"
+        android:textSize="@dimen/title_height_return"
         android:visibility="gone" />
 
     <TextView
@@ -218,5 +218,5 @@
         android:foreground="?android:attr/selectableItemBackground"
         android:padding="10dp"
         android:text="返回"
-        android:textSize="25sp" />
+        android:textSize="@dimen/title_height_return" />
 </RelativeLayout>

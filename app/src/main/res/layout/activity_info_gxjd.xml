@@ -247,7 +247,7 @@
         android:padding="10dp"
         android:text="搜索"
         android:visibility="invisible"
-        android:textSize="25sp" />
+        android:textSize="@dimen/title_height_return"/>
 
     <TextView
         android:id="@+id/tv_return"
@@ -261,5 +261,5 @@
         android:foreground="?android:attr/selectableItemBackground"
         android:padding="10dp"
         android:text="返回"
-        android:textSize="25sp" />
+        android:textSize="@dimen/title_height_return" />
 </RelativeLayout>

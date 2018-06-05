@@ -23,19 +23,36 @@
     <dimen name="textsize_1">2sp</dimen>
 
 
-    <dimen name="title_width_l">59</dimen>
-    <dimen name="title_height_l">27</dimen>
+    <dimen name="title_width_l">59dp</dimen>
+    <dimen name="title_height_l">27dp</dimen>
     <dimen name="title_margin_l">10dp</dimen>
     <dimen name="title_margin_r">10dp</dimen>
     <dimen name="title_margin_t">20dp</dimen>
     <dimen name="title_width_r">50dp</dimen>
     <dimen name="title_height_r">10dp</dimen>
+    <dimen name="title_height_return">12sp</dimen>
+    <dimen name="title_text_yuandian">10sp</dimen>
 
 
     <dimen name="jdmz_index_width_height_logo">68dp</dimen>
     <dimen name="jdmz_index_margi_l">50dp</dimen>
 
     <dimen name="gxjd_yuandian_width_height_logo">56dp</dimen>
-    <dimen name="gxjd_yuandian_margi_l">50</dimen>
+    <dimen name="gxjd_yuandian_margi_l">50dp</dimen>
 
+
+    <dimen name="gxjd_index_layout_width">125dp</dimen>
+    <dimen name="gxjd_index_layout_margin_l">56dp</dimen>
+    <dimen name="gxjd_index_layout_margin_r">56dp</dimen>
+
+
+    <dimen name="gxjd_index_width">140dp</dimen>
+    <dimen name="gxjd_index_height">42dp</dimen>
+
+
+    <dimen name="gxjd_index_width_d">57dp</dimen>
+    <dimen name="gxjd_index_height_d">28dp</dimen>
+    <dimen name="gxjd_index_margin_r">31dp</dimen>
+    <dimen name="gxjd_index_margin_l">10dp</dimen>
+    <dimen name="gxjd_index_margin_b">5dp</dimen>
 </resources>
