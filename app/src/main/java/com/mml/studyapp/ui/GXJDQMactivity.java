@@ -107,17 +107,17 @@ public class GXJDQMactivity extends BaseCompatActivity implements View.OnClickLi
                 break;
             case R.id.tv_zgxw:
                 Intent intent3=new Intent(this,GXJDMuluActivity.class);
-                intent3.putParcelableArrayListExtra("muluinfo",mList.get(2).getDetail());
+                intent3.putParcelableArrayListExtra("muluinfo",mList.get(4).getDetail());
                 ActivityAnim.intentActivity(this,intent3);
                 break;
             case R.id.tv_qzw:
                 Intent intent4=new Intent(this,GXJDMuluActivity.class);
-                intent4.putParcelableArrayListExtra("muluinfo",mList.get(3).getDetail());
+                intent4.putParcelableArrayListExtra("muluinfo",mList.get(2).getDetail());
                 ActivityAnim.intentActivity(this,intent4);
                 break;
             case R.id.tv_dzg:
                 Intent intent5=new Intent(this,GXJDMuluActivity.class);
-                intent5.putParcelableArrayListExtra("muluinfo",mList.get(4).getDetail());
+                intent5.putParcelableArrayListExtra("muluinfo",mList.get(3).getDetail());
                 ActivityAnim.intentActivity(this,intent5);
                 break;
             case R.id.tv_yxql:

@@ -99,7 +99,6 @@ public class WYMPInfoActivity extends BaseCompatActivity implements View.OnClick
             public boolean shouldOverrideUrlLoading(WebView view, String url) {
                 // TODO 自动生成的方法存根
                 view.loadUrl(url);
-
                 return true;
             }
         });

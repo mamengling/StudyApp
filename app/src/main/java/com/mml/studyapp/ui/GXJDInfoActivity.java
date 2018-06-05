@@ -48,6 +48,7 @@ public class GXJDInfoActivity extends BaseCompatActivity implements View.OnClick
     @Override
     protected void titleBarSet(TitleBar titleBar) {
         titleBar.setVisibility(View.GONE);
+        IMAudioManager.instance().init(this);
     }
 
     /**
