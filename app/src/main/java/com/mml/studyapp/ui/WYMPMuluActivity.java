@@ -25,6 +25,7 @@ public class WYMPMuluActivity extends BaseCompatActivity implements View.OnClick
     private ListView recycler_view;
     private ArrayList<WYMPBean.GwrmBean> list;
     private WYMPMuluListAdapter mAdapter;
+    private int flag_type;
 
     @Override
     protected void titleBarSet(TitleBar titleBar) {
@@ -45,6 +46,7 @@ public class WYMPMuluActivity extends BaseCompatActivity implements View.OnClick
     @Override
     protected void getExras() {
         list = getIntent().getParcelableArrayListExtra("list");
+        flag_type = getIntent().getIntExtra("flag_type", 0);
     }
 
     @Override
@@ -57,6 +59,7 @@ public class WYMPMuluActivity extends BaseCompatActivity implements View.OnClick
                 public void clickItem(View view, int position, int positionChild, int ClickType, String content) {
                     Intent intent = new Intent(WYMPMuluActivity.this, WYMPInfoActivity.class);
                     intent.putExtra("tsscdate", list.get(position).getKkk().get(positionChild));
+                    intent.putExtra("flag_type", flag_type);
                     ActivityAnim.intentActivity(WYMPMuluActivity.this, intent);
                 }
             });

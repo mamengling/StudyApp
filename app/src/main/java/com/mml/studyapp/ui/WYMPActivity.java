@@ -79,21 +79,25 @@ public class WYMPActivity extends BaseCompatActivity implements View.OnClickList
             case R.id.tv_gwrm:
                 Intent intentGWRM = new Intent(this, WYMPMuluActivity.class);
                 intentGWRM.putParcelableArrayListExtra("list",gwrm);
+                intentGWRM.putExtra("flag_type",101);
                 ActivityAnim.intentActivity(this, intentGWRM);
                 break;
             case R.id.tv_bpbb:
                 Intent intentBPBB = new Intent(this, WYMPMuluActivity.class);
                 intentBPBB.putParcelableArrayListExtra("list",bpbb);
+                intentBPBB.putExtra("flag_type",102);
                 ActivityAnim.intentActivity(this, intentBPBB);
                 break;
             case R.id.tv_gzts:
                 Intent intentGZTS = new Intent(this, WYMPMuluActivity.class);
                 intentGZTS.putParcelableArrayListExtra("list",kzts);
+                intentGZTS.putExtra("flag_type",103);
                 ActivityAnim.intentActivity(this, intentGZTS);
                 break;
             case R.id.tv_nlxl:
                 Intent intentNLXL = new Intent(this, WYMPMuluActivity.class);
                 intentNLXL.putParcelableArrayListExtra("list",nlxl);
+                intentNLXL.putExtra("flag_type",104);
                 ActivityAnim.intentActivity(this, intentNLXL);
                 break;
         }

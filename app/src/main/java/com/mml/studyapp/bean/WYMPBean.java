@@ -84,6 +84,9 @@ public class WYMPBean {
             private String knowledge;
             private String practise;
             private String speech;
+            private String works;
+            private String author;
+            private String relationship;
 
             public String getId() {
                 return id;
@@ -165,6 +168,31 @@ public class WYMPBean {
                 this.speech = speech;
             }
 
+            public String getWorks() {
+                return works;
+            }
+
+            public void setWorks(String works) {
+                this.works = works;
+            }
+
+            public String getAuthor() {
+                return author;
+            }
+
+            public void setAuthor(String author) {
+                this.author = author;
+            }
+
+            public String getRelationship() {
+                return relationship;
+            }
+
+            public void setRelationship(String relationship) {
+                this.relationship = relationship;
+            }
+
+
             @Override
             public int describeContents() {
                 return 0;
@@ -182,6 +210,9 @@ public class WYMPBean {
                 dest.writeString(this.knowledge);
                 dest.writeString(this.practise);
                 dest.writeString(this.speech);
+                dest.writeString(this.works);
+                dest.writeString(this.author);
+                dest.writeString(this.relationship);
             }
 
             public KkkBean() {
@@ -198,6 +229,9 @@ public class WYMPBean {
                 this.knowledge = in.readString();
                 this.practise = in.readString();
                 this.speech = in.readString();
+                this.works = in.readString();
+                this.author = in.readString();
+                this.relationship = in.readString();
             }
 
             public static final Creator<KkkBean> CREATOR = new Creator<KkkBean>() {
@@ -212,6 +246,7 @@ public class WYMPBean {
                 }
             };
         }
+
         @Override
         public int describeContents() {
             return 0;

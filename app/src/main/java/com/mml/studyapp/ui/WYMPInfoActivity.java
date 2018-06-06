@@ -10,6 +10,7 @@ import android.webkit.WebViewClient;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.maxi.audiotools.IMAudioManager;
@@ -38,6 +39,10 @@ public class WYMPInfoActivity extends BaseCompatActivity implements View.OnClick
     private String mRecPath;
     private LinearLayout mLayoutRecord;
     private RelativeLayout mLayoutPlay;
+    private int flag_type;
+    private TextView tv_gushi;
+    private TextView tv_zhishi;
+    private TextView tv_zhiyong;
 
     @Override
     protected void titleBarSet(TitleBar titleBar) {
@@ -64,18 +69,38 @@ public class WYMPInfoActivity extends BaseCompatActivity implements View.OnClick
         view.findViewById(R.id.tv_zs).setOnClickListener(this);
         view.findViewById(R.id.tv_yw).setOnClickListener(this);
         view.findViewById(R.id.tv_bs).setOnClickListener(this);
-        view.findViewById(R.id.tv_gushi).setOnClickListener(this);
-        view.findViewById(R.id.tv_zhishi).setOnClickListener(this);
-        view.findViewById(R.id.tv_zhiyong).setOnClickListener(this);
+        tv_gushi = (TextView) view.findViewById(R.id.tv_gushi);
+        tv_zhishi = (TextView) view.findViewById(R.id.tv_zhishi);
+        tv_zhiyong = (TextView) view.findViewById(R.id.tv_zhiyong);
     }
 
     @Override
     protected void getExras() {
         mMuluBean = getIntent().getParcelableExtra("tsscdate");
+        flag_type = getIntent().getIntExtra("flag_type", 0);
     }
 
     @Override
     protected void setListener() {
+        tv_gushi.setOnClickListener(this);
+        tv_zhishi.setOnClickListener(this);
+        tv_zhiyong.setOnClickListener(this);
+        if (flag_type == 102) {
+            tv_gushi.setText("作品简介");
+            tv_zhishi.setText("作者简介");
+            tv_zhiyong.setText("人物关系");
+        }
+        if (flag_type == 103) {
+            tv_gushi.setText("作品简介");
+            tv_zhishi.setText("作者简介");
+            tv_zhiyong.setText("人物关系");
+        }
+        if (flag_type == 104) {
+            tv_gushi.setText("文章赏析");
+            tv_zhishi.setText("作者简介");
+            tv_zhiyong.setVisibility(View.GONE);
+            text_play.setVisibility(View.GONE);
+        }
         tv_luyin.setOnClickListener(this);
         tv_bofang.setOnClickListener(this);
         voiceManager = new VoiceManager(WYMPInfoActivity.this, "/com.mml.studyapp/audio");
@@ -177,13 +202,38 @@ public class WYMPInfoActivity extends BaseCompatActivity implements View.OnClick
                 web_view.loadUrl(mMuluBean.getRecite());
                 break;
             case R.id.tv_gushi:
-                web_view.loadUrl(mMuluBean.getStory());
+                if (flag_type == 101) {
+                    web_view.loadUrl(mMuluBean.getStory());
+                } else if (flag_type == 102) {
+                    web_view.loadUrl(mMuluBean.getWorks());
+                } else if (flag_type == 103) {
+                    web_view.loadUrl(mMuluBean.getWorks());
+                } else if (flag_type == 104) {
+                    web_view.loadUrl(mMuluBean.getWorks());
+                }
                 break;
             case R.id.tv_zhishi:
-                web_view.loadUrl(mMuluBean.getKnowledge());
+                if (flag_type == 101) {
+                    web_view.loadUrl(mMuluBean.getKnowledge());
+                } else if (flag_type == 102) {
+                    web_view.loadUrl(mMuluBean.getAuthor());
+                } else if (flag_type == 103) {
+                    web_view.loadUrl(mMuluBean.getAuthor());
+                } else if (flag_type == 104) {
+                    web_view.loadUrl(mMuluBean.getAuthor());
+                }
                 break;
             case R.id.tv_zhiyong:
-                web_view.loadUrl(mMuluBean.getPractise());
+                if (flag_type == 101) {
+                    web_view.loadUrl(mMuluBean.getPractise());
+                } else if (flag_type == 102) {
+                    web_view.loadUrl(mMuluBean.getRelationship());
+                } else if (flag_type == 103) {
+                    web_view.loadUrl(mMuluBean.getRelationship());
+                } else if (flag_type == 104) {
+
+                }
+
                 break;
             case R.id.text_play:
                 IMAudioManager.instance().playSound(mMuluBean.getSpeech(), new MediaPlayer.OnCompletionListener() {
